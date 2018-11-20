@@ -1,0 +1,1186 @@
+\begin{thebibliography}{119}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Ablay et~al.(1998)Ablay, Carroll, Palmer, Mart{\'{i}} and
+  Sparks}]{Ablay1998}
+\bibinfo{author}{Ablay, G.J.}, \bibinfo{author}{Carroll, M.R.},
+  \bibinfo{author}{Palmer, M.R.}, \bibinfo{author}{Mart{\'{i}}, J.},
+  \bibinfo{author}{Sparks, R.S.J.}, \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{{Basanite--phonolite lineages of the Teide--Pico
+  Viejo volcanic complex, Tenerife, Canary Islands}}.
+\newblock \bibinfo{journal}{Journal of Petrology} \bibinfo{volume}{39},
+  \bibinfo{pages}{905--936}.
+\newblock \DOIprefix\doi{10.1093/petroj/39.5.905}.
+%Type = Article
+\bibitem[{Ablay et~al.(1995)Ablay, Ernst, Marti and Sparks}]{Ablay1995}
+\bibinfo{author}{Ablay, G.J.}, \bibinfo{author}{Ernst, G.G.J.},
+  \bibinfo{author}{Marti, J.}, \bibinfo{author}{Sparks, R.S.J.},
+  \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{{The ∼2 ka subplinian eruption of Monta{\~{n}}a
+  Blanca, Tenerife}}.
+\newblock \bibinfo{journal}{Bulletin of Volcanology} \bibinfo{volume}{57},
+  \bibinfo{pages}{337--355}.
+\newblock \DOIprefix\doi{10.1007/BF00301292}.
+%Type = Article
+\bibitem[{Adam and Green(2006)}]{Adam2006}
+\bibinfo{author}{Adam, J.}, \bibinfo{author}{Green, T.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{{Trace element partitioning between mica- and
+  amphibole-bearing garnet lherzolite and hydrous basanitic melt: 1.
+  Experimental results and the investigation of controls on partitioning
+  behaviour}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{152}, \bibinfo{pages}{1--17}.
+\newblock \DOIprefix\doi{10.1007/s00410-006-0085-4}.
+%Type = Article
+\bibitem[{Akasaka and Onuma(1980)}]{Akasaka1980}
+\bibinfo{author}{Akasaka, M.}, \bibinfo{author}{Onuma, K.},
+  \bibinfo{year}{1980}.
+\newblock \bibinfo{title}{{The join CaMgSi2O6-CaFeAlSiO6-CaTiAl2O6 and its
+  bearing on the Ti-rich fassaitic pyroxenes}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{71}, \bibinfo{pages}{301--312}.
+\newblock \DOIprefix\doi{10.1007/BF00371672}.
+%Type = Article
+\bibitem[{Albert et~al.(2015)Albert, Costa and Mart{\'{i}}}]{Albert2015}
+\bibinfo{author}{Albert, H.}, \bibinfo{author}{Costa, F.},
+  \bibinfo{author}{Mart{\'{i}}, J.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{{Timing of magmatic processes and unrest associated
+  with mafic historical monogenetic eruptions in Tenerife Island}}.
+\newblock \bibinfo{journal}{Journal of Petrology} \bibinfo{volume}{56},
+  \bibinfo{pages}{1945--1966}.
+\newblock \DOIprefix\doi{10.1093/petrology/egv058}.
+%Type = Article
+\bibitem[{And{\'{u}}jar and Scaillet(2012)}]{Andujar2012}
+\bibinfo{author}{And{\'{u}}jar, J.}, \bibinfo{author}{Scaillet, B.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{Experimental constraints on parameters controlling
+  the difference in the eruptive dynamics of phonolitic magmas: the case of
+  Tenerife (Canary Islands)}}.
+\newblock \bibinfo{journal}{Journal of Petrology} \bibinfo{volume}{53},
+  \bibinfo{pages}{1777--1806}.
+\newblock \DOIprefix\doi{10.1093/petrology/egs033}.
+%Type = Article
+\bibitem[{Aseri et~al.(2015)Aseri, Linnen, Che, Thibault and Holtz}]{Aseri2015}
+\bibinfo{author}{Aseri, A.A.}, \bibinfo{author}{Linnen, R.L.},
+  \bibinfo{author}{Che, X.D.}, \bibinfo{author}{Thibault, Y.},
+  \bibinfo{author}{Holtz, F.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{{Effects of fluorine on the solubilities of Nb, Ta,
+  Zr and Hf minerals in highly fluxed water-saturated haplogranitic melts}}.
+\newblock \bibinfo{journal}{Ore Geology Reviews} \bibinfo{volume}{64},
+  \bibinfo{pages}{736--746}.
+\newblock \DOIprefix\doi{10.1016/j.oregeorev.2014.02.014}.
+%Type = Phdthesis
+\bibitem[{Beard(2018)}]{Beard_PhD_Thesis}
+\bibinfo{author}{Beard, C.D.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{{Mineral-melt trace element partitioning in alkaline
+  magmatic systems}}.
+\newblock \bibinfo{type}{Phd thesis}.
+\newblock McGill University.
+%Type = Article
+\bibitem[{B{\'{e}}dard(2014)}]{Bedard2014}
+\bibinfo{author}{B{\'{e}}dard, J.H.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{{Parameterizations of calcic clinopyroxene - Melt
+  trace element partition coefficients}}.
+\newblock \bibinfo{journal}{Geochemistry, Geophysics, Geosystems}
+  \bibinfo{volume}{15}, \bibinfo{pages}{303--336}.
+\newblock \DOIprefix\doi{10.1002/2013GC005112}.
+%Type = Article
+\bibitem[{Behrens and Hahn(2009)}]{Behrens2009}
+\bibinfo{author}{Behrens, H.}, \bibinfo{author}{Hahn, M.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Trace element diffusion and viscous flow in
+  potassium-rich trachytic and phonolitic melts}}.
+\newblock \bibinfo{journal}{Chemical Geology} \bibinfo{volume}{259},
+  \bibinfo{pages}{63--77}.
+\newblock \DOIprefix\doi{10.1016/j.chemgeo.2008.10.014}.
+%Type = Article
+\bibitem[{Berndt et~al.(2002)Berndt, Liebske, Holtz, Freise, Nowak, Ziegenbein,
+  Hurkuck and Koepke}]{Berndt2002}
+\bibinfo{author}{Berndt, J.}, \bibinfo{author}{Liebske, C.},
+  \bibinfo{author}{Holtz, F.}, \bibinfo{author}{Freise, M.},
+  \bibinfo{author}{Nowak, M.}, \bibinfo{author}{Ziegenbein, D.},
+  \bibinfo{author}{Hurkuck, W.}, \bibinfo{author}{Koepke, J.},
+  \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{{A combined rapid-quench and H2-membrane setup for
+  internally heated pressure vessels: description and application for water
+  solubility in basaltic melts}}.
+\newblock \bibinfo{journal}{American Mineralogist} \bibinfo{volume}{87},
+  \bibinfo{pages}{1717--1726}.
+\newblock \DOIprefix\doi{10.1029/JB089iB10p08540}.
+%Type = Article
+\bibitem[{Blundy and Wood(1994)}]{Blundy1994}
+\bibinfo{author}{Blundy, J.}, \bibinfo{author}{Wood, B.}, \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{{Prediction of crystal--melt partition coefficients
+  from elastic moduli}}.
+\newblock \bibinfo{journal}{Nature} \bibinfo{volume}{372},
+  \bibinfo{pages}{452--454}.
+\newblock \DOIprefix\doi{10.1038/372452a0}.
+%Type = Article
+\bibitem[{Blundy et~al.(1998)Blundy, Robinson and Wood}]{Blundy1998}
+\bibinfo{author}{Blundy, J.D.}, \bibinfo{author}{Robinson, J.A.C.},
+  \bibinfo{author}{Wood, B.J.}, \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{{Heavy REE are compatible in clinopyroxene on the
+  spinel lherzolite solidus}}.
+\newblock \bibinfo{journal}{Earth and Planetary Science Letters}
+  \bibinfo{volume}{160}, \bibinfo{pages}{493--504}.
+\newblock \DOIprefix\doi{10.1016/S0012-821X(98)00106-X}.
+%Type = Article
+\bibitem[{Boehnke et~al.(2013)Boehnke, Watson, Trail, Harrison and
+  Schmitt}]{Boehnke2013}
+\bibinfo{author}{Boehnke, P.}, \bibinfo{author}{Watson, E.B.},
+  \bibinfo{author}{Trail, D.}, \bibinfo{author}{Harrison, T.M.},
+  \bibinfo{author}{Schmitt, A.K.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Zircon saturation re-revisited}}.
+\newblock \bibinfo{journal}{Chemical Geology} \bibinfo{volume}{351},
+  \bibinfo{pages}{324--334}.
+\newblock \DOIprefix\doi{10.1016/j.chemgeo.2013.05.028}.
+%Type = Article
+\bibitem[{Borchert et~al.(2010)Borchert, Wilke, Schmidt, Cauzid and
+  Tucoulou}]{Borchert2010}
+\bibinfo{author}{Borchert, M.}, \bibinfo{author}{Wilke, M.},
+  \bibinfo{author}{Schmidt, C.}, \bibinfo{author}{Cauzid, J.},
+  \bibinfo{author}{Tucoulou, R.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{{Partitioning of Ba, La, Yb and Y between
+  haplogranitic melts and aqueous solutions: An experimental study}}.
+\newblock \bibinfo{journal}{Chemical Geology} \bibinfo{volume}{276},
+  \bibinfo{pages}{225--240}.
+\newblock \DOIprefix\doi{10.1016/j.chemgeo.2010.06.009}.
+%Type = Article
+\bibitem[{Boudreau(2004)}]{Boudreau2004}
+\bibinfo{author}{Boudreau, A.E.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{{PALLADIUM, a program to model the chromatographic
+  separation of the platinum-group elements, base metals and sulfur in a
+  solidifying pile of igneous crystals}}.
+\newblock \bibinfo{journal}{Canadian Mineralogist} \bibinfo{volume}{42},
+  \bibinfo{pages}{393--403}.
+\newblock \DOIprefix\doi{10.2113/gscanmin.42.2.393}.
+%Type = Article
+\bibitem[{Brown et~al.(2003)Brown, Barry, Branney, Pringle and
+  Bryan}]{Brown2003}
+\bibinfo{author}{Brown, R.J.}, \bibinfo{author}{Barry, T.L.},
+  \bibinfo{author}{Branney, M.J.}, \bibinfo{author}{Pringle, M.S.},
+  \bibinfo{author}{Bryan, S.E.}, \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{{The Quaternary pyroclastic succession of southeast
+  Tenerife, Canary Islands: explosive eruptions, related caldera subsidence,
+  and sector collapse}}.
+\newblock \bibinfo{journal}{Geological Magazine} \bibinfo{volume}{140},
+  \bibinfo{pages}{265--288}.
+\newblock \DOIprefix\doi{10.1017/S0016756802007252}.
+%Type = Article
+\bibitem[{Bryan et~al.(1998)Bryan, Mart{\'{i}} and Cas}]{Bryan1998}
+\bibinfo{author}{Bryan, S.E.}, \bibinfo{author}{Mart{\'{i}}, J.},
+  \bibinfo{author}{Cas, R.A.F.}, \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{{Stratigraphy of the Bandas del Sur Formation: an
+  extracaldera record of Quaternary phonolitic explosive eruptions from the Las
+  Ca{\~{n}}adas edifice, Tenerife (Canary Islands)}}.
+\newblock \bibinfo{journal}{Geological Magazine} \bibinfo{volume}{135},
+  \bibinfo{pages}{605--636}.
+\newblock \DOIprefix\doi{null}.
+%Type = Article
+\bibitem[{Carracedo et~al.(2007)Carracedo, Badiola, Guillou, Paterne, Scaillet,
+  Torrado, Paris, Fra-Paleo and Hansen}]{Carracedo2007}
+\bibinfo{author}{Carracedo, J.C.}, \bibinfo{author}{Badiola, E.R.},
+  \bibinfo{author}{Guillou, H.}, \bibinfo{author}{Paterne, M.},
+  \bibinfo{author}{Scaillet, S.}, \bibinfo{author}{Torrado, F.J.P.},
+  \bibinfo{author}{Paris, R.}, \bibinfo{author}{Fra-Paleo, U.},
+  \bibinfo{author}{Hansen, A.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{{Eruptive and structural history of Teide Volcano and
+  rift zones of Tenerife, Canary Islands}}.
+\newblock \bibinfo{journal}{Geological Society of America Bulletin}
+  \bibinfo{volume}{119}, \bibinfo{pages}{1027--1051}.
+\newblock \DOIprefix\doi{10.1130/B26087.1}.
+%Type = Article
+\bibitem[{Carroll and Blank(1997)}]{Carroll1997}
+\bibinfo{author}{Carroll, M.R.}, \bibinfo{author}{Blank, J.G.},
+  \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{{The solubility of H2O in phonolitic melts}}.
+\newblock \bibinfo{journal}{American Mineralogist} \bibinfo{volume}{82},
+  \bibinfo{pages}{549--556}.
+\newblock \DOIprefix\doi{10.1093/petrology/32.5.1021}.
+%Type = Article
+\bibitem[{Chou(1986)}]{Chou1986}
+\bibinfo{author}{Chou, I.M.}, \bibinfo{year}{1986}.
+\newblock \bibinfo{title}{{Permeability of precious metals to hydrogen at 2 kb
+  total pressure and elevated temperatures.}}
+\newblock \bibinfo{journal}{American Journal of Science}
+\newblock \bibinfo{volume}{286}, \bibinfo{pages}{638--658}.
+%Type = Article
+\bibitem[{Corgne and Wood(2005)}]{Corgne2005CMP}
+\bibinfo{author}{Corgne, A.}, \bibinfo{author}{Wood, B.J.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{{Trace element partitioning and substitution
+  mechanisms in calcium perovskites}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{149}, \bibinfo{pages}{85--97}.
+\newblock \DOIprefix\doi{10.1007/s00410-004-0638-3}.
+%Type = Article
+\bibitem[{Costa et~al.(2003)Costa, Chakraborty and Dohmen}]{Costa2003}
+\bibinfo{author}{Costa, F.}, \bibinfo{author}{Chakraborty, S.},
+  \bibinfo{author}{Dohmen, R.}, \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{{Diffusion coupling between major and trace elements
+  and a model for the calculation of magma chamber residence times using
+  plagioclase}}.
+\newblock \bibinfo{journal}{Geochimica et Cosmochimica Acta}
+  \bibinfo{volume}{67}, \bibinfo{pages}{2189--2200}.
+\newblock \DOIprefix\doi{10.1016/S0016-7037(00)01345-5}.
+%Type = Article
+\bibitem[{Coumans et~al.(2016)Coumans, Stix, Clague, Minarik and
+  Layne}]{Coumans2016}
+\bibinfo{author}{Coumans, J.P.}, \bibinfo{author}{Stix, J.},
+  \bibinfo{author}{Clague, D.A.}, \bibinfo{author}{Minarik, W.G.},
+  \bibinfo{author}{Layne, G.D.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{Melt-rock interaction near the Moho: Evidence from
+  crystal cargo in lavas from near-ridge seamounts}}.
+\newblock \bibinfo{journal}{Geochimica et Cosmochimica Acta}
+  \bibinfo{volume}{191}, \bibinfo{pages}{139--164}.
+\newblock \DOIprefix\doi{10.1016/j.gca.2016.07.017}.
+%Type = Book
+\bibitem[{Deer et~al.(1992)Deer, Howie and Zussman}]{Deer1992}
+\bibinfo{author}{Deer, W.A.}, \bibinfo{author}{Howie, R.A.},
+  \bibinfo{author}{Zussman, J.}, \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{{An introduction to the rock-forming minerals}}.
+\newblock
+\newblock \bibinfo{publisher}{Longman Group Ltd}, \bibinfo{address}{New York}.
+%Type = Article
+\bibitem[{Dostal(2017)}]{Dostal2017}
+\bibinfo{author}{Dostal, J.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{Rare earth element deposits of alkaline igneous
+  rocks}}.
+\newblock \bibinfo{journal}{Resources} \bibinfo{volume}{6},
+  \bibinfo{pages}{1--12}.
+\newblock \DOIprefix\doi{10.3390/resources6030034}.
+%Type = Article
+\bibitem[{Downes et~al.(2005)Downes, Balaganskaya, Beard, Liferovich and
+  Demaiffe}]{Downes2005}
+\bibinfo{author}{Downes, H.}, \bibinfo{author}{Balaganskaya, E.},
+  \bibinfo{author}{Beard, A.}, \bibinfo{author}{Liferovich, R.},
+  \bibinfo{author}{Demaiffe, D.}, \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{{Petrogenetic processes in the ultramafic, alkaline
+  and carbonatitic magmatism in the Kola Alkaline Province: A review}}.
+\newblock \bibinfo{journal}{Lithos} \bibinfo{volume}{85},
+  \bibinfo{pages}{48--75}.
+\newblock \DOIprefix\doi{10.1016/j.lithos.2005.03.020}.
+%Type = Article
+\bibitem[{Droop(1987)}]{Droop1987}
+\bibinfo{author}{Droop, G.T.R.}, \bibinfo{year}{1987}.
+\newblock \bibinfo{title}{{A general equation for estimating Fe3+
+  concentrations in ferromagnesian silicates and oxides from microprobe
+  analyses, using stoichiometric criteria}}.
+\newblock \bibinfo{journal}{Mineralogical magazine}
+\newblock \bibinfo{volume}{51}, \bibinfo{pages}{431--435}.
+%Type = Article
+\bibitem[{Dygert et~al.(2014)Dygert, Liang, Sun and Hess}]{Dygert2014}
+\bibinfo{author}{Dygert, N.}, \bibinfo{author}{Liang, Y.},
+  \bibinfo{author}{Sun, C.}, \bibinfo{author}{Hess, P.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{{An experimental study of trace element partitioning
+  between augite and Fe-rich basalts}}.
+\newblock \bibinfo{journal}{Geochimica et Cosmochimica Acta}
+  \bibinfo{volume}{132}, \bibinfo{pages}{170--186}.
+\newblock \DOIprefix\doi{10.1016/j.gca.2014.01.042}.
+%Type = Article
+\bibitem[{Edgar et~al.(2007)Edgar, Wolff, Olin, Nichols, Pittari, Cas, Reiners,
+  Spell and Mart{\'{i}}}]{Edgar2007}
+\bibinfo{author}{Edgar, C.J.}, \bibinfo{author}{Wolff, J.A.},
+  \bibinfo{author}{Olin, P.H.}, \bibinfo{author}{Nichols, H.J.},
+  \bibinfo{author}{Pittari, A.}, \bibinfo{author}{Cas, R.A.F.},
+  \bibinfo{author}{Reiners, P.W.}, \bibinfo{author}{Spell, T.L.},
+  \bibinfo{author}{Mart{\'{i}}, J.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{{The late Quaternary Diego Hernandez Formation,
+  Tenerife: Volcanology of a complex cycle of voluminous explosive phonolitic
+  eruptions}}.
+\newblock \bibinfo{journal}{Journal of Volcanology and Geothermal Research}
+  \bibinfo{volume}{160}, \bibinfo{pages}{59--85}.
+\newblock \DOIprefix\doi{10.1016/j.jvolgeores.2006.06.001}.
+%Type = Article
+\bibitem[{Eugster and Wones(1962)}]{Eugster1962}
+\bibinfo{author}{Eugster, H.P.}, \bibinfo{author}{Wones, D.R.},
+  \bibinfo{year}{1962}.
+\newblock \bibinfo{title}{{Stability relations of the ferruginous biotite,
+  annite}}.
+\newblock \bibinfo{journal}{Journal of Petrology} \bibinfo{volume}{3},
+  \bibinfo{pages}{82--125}.
+\newblock \DOIprefix\doi{10.1093/petrology/3.1.82}.
+%Type = Article
+\bibitem[{Fedele et~al.(2009)Fedele, Zanetti, Morra, Lustrino, Melluso and
+  Vannucci}]{Fedele2009}
+\bibinfo{author}{Fedele, L.}, \bibinfo{author}{Zanetti, A.},
+  \bibinfo{author}{Morra, V.}, \bibinfo{author}{Lustrino, M.},
+  \bibinfo{author}{Melluso, L.}, \bibinfo{author}{Vannucci, R.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Clinopyroxene/liquid trace element partitioning in
+  natural trachyte--trachyphonolite systems: insights from Campi Flegrei
+  (southern Italy)}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{158}, \bibinfo{pages}{337--356}.
+\newblock \DOIprefix\doi{10.1007/s00410-009-0386-5}.
+%Type = Article
+\bibitem[{Foley et~al.(2013)Foley, Prelevic, Rehfeldt and Jacob}]{Foley2013}
+\bibinfo{author}{Foley, S.F.}, \bibinfo{author}{Prelevic, D.},
+  \bibinfo{author}{Rehfeldt, T.}, \bibinfo{author}{Jacob, D.E.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Minor and trace elements in olivines as probes into
+  early igneous and mantle melting processes}}.
+\newblock \bibinfo{journal}{Earth and Planetary Science Letters}
+  \bibinfo{volume}{363}, \bibinfo{pages}{181--191}.
+\newblock \DOIprefix\doi{10.1016/j.epsl.2012.11.025}.
+%Type = Article
+\bibitem[{Francis and Minarik(2008)}]{Francis2008}
+\bibinfo{author}{Francis, D.}, \bibinfo{author}{Minarik, W.},
+  \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{{Aluminum-dependent trace element partitioning in
+  clinopyroxene}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{156}, \bibinfo{pages}{439--451}.
+\newblock \DOIprefix\doi{10.1007/s00410-008-0295-z}.
+%Type = Article
+\bibitem[{Gaetani(2004)}]{Gaetani2004}
+\bibinfo{author}{Gaetani, G.A.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{{The influence of melt structure on trace element
+  partitioning near the peridotite solidus}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{147}, \bibinfo{pages}{511--527}.
+\newblock \DOIprefix\doi{10.1007/s00410-004-0575-1}.
+%Type = Article
+\bibitem[{Gaetani and Grove(1995)}]{Gaetani1995}
+\bibinfo{author}{Gaetani, G.A.}, \bibinfo{author}{Grove, T.L.},
+  \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{{Partitioning of rare earth elements between
+  clinopyroxene and silicate melt: Crystal-chemical controls}}.
+\newblock \bibinfo{journal}{Geochimica et Cosmochimica Acta}
+  \bibinfo{volume}{59}, \bibinfo{pages}{1951--1962}.
+\newblock \DOIprefix\doi{10.1016/0016-7037(95)00119-0}.
+%Type = Article
+\bibitem[{Gaillard et~al.(2002)Gaillard, Scaillet and Pichavant}]{Gaillard2002}
+\bibinfo{author}{Gaillard, F.}, \bibinfo{author}{Scaillet, B.},
+  \bibinfo{author}{Pichavant, M.}, \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{{Kinetics of iron oxidation-reduction in hydrous
+  silicic melts}}.
+\newblock \bibinfo{journal}{American Mineralogist} \bibinfo{volume}{87},
+  \bibinfo{pages}{829--837}.
+\newblock \DOIprefix\doi{10.2138/am-2002-0704}.
+%Type = Article
+\bibitem[{Giehl et~al.(2013)Giehl, Marks and Nowak}]{Giehl2013}
+\bibinfo{author}{Giehl, C.}, \bibinfo{author}{Marks, M.},
+  \bibinfo{author}{Nowak, M.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Phase relations and liquid lines of descent of an
+  iron-rich peralkaline phonolitic melt: an experimental study}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{165}, \bibinfo{pages}{283--304}.
+\newblock \DOIprefix\doi{10.1007/s00410-012-0809-6}.
+%Type = Article
+\bibitem[{Giordano et~al.(2005)Giordano, Nichols and Dingwell}]{Giordano2005}
+\bibinfo{author}{Giordano, D.}, \bibinfo{author}{Nichols, A.},
+  \bibinfo{author}{Dingwell, D.}, \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{{Glass transition temperatures of natural hydrous
+  melts: a relationship with shear viscosity and implications for the welding
+  process}}.
+\newblock \bibinfo{journal}{Journal of Volcanology and Geothermal Research}
+  \bibinfo{volume}{142}, \bibinfo{pages}{105--118}.
+\newblock \DOIprefix\doi{10.1016/j.jvolgeores.2004.10.015}.
+%Type = Article
+\bibitem[{Girnis et~al.(2013)Girnis, Bulatov, Brey, Gerdes and
+  H{\"{o}}fer}]{Girnis2013}
+\bibinfo{author}{Girnis, A.V.}, \bibinfo{author}{Bulatov, V.K.},
+  \bibinfo{author}{Brey, G.P.}, \bibinfo{author}{Gerdes, A.},
+  \bibinfo{author}{H{\"{o}}fer, H.E.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Trace element partitioning between mantle minerals
+  and silico-carbonate melts at 6--12 GPa and applications to mantle
+  metasomatism and kimberlite genesis}}.
+\newblock \bibinfo{journal}{Lithos} \bibinfo{volume}{160-161},
+  \bibinfo{pages}{183--200}.
+\newblock \DOIprefix\doi{10.1016/j.lithos.2012.11.027}.
+%Type = Article
+\bibitem[{Goodenough et~al.(2016)Goodenough, Schilling, Jonsson, Kalvig,
+  Charles, Tuduri, Deady, Sadeghi, Schiellerup, M{\"{u}}ller, Bertrand,
+  Arvanitidis, Eliopoulos, Shaw, Thrane and Keulen}]{Goodenough2016}
+\bibinfo{author}{Goodenough, K.M.}, \bibinfo{author}{Schilling, J.},
+  \bibinfo{author}{Jonsson, E.}, \bibinfo{author}{Kalvig, P.},
+  \bibinfo{author}{Charles, N.}, \bibinfo{author}{Tuduri, J.},
+  \bibinfo{author}{Deady, E.A.}, \bibinfo{author}{Sadeghi, M.},
+  \bibinfo{author}{Schiellerup, H.}, \bibinfo{author}{M{\"{u}}ller, A.},
+  \bibinfo{author}{Bertrand, G.}, \bibinfo{author}{Arvanitidis, N.},
+  \bibinfo{author}{Eliopoulos, D.G.}, \bibinfo{author}{Shaw, R.A.},
+  \bibinfo{author}{Thrane, K.}, \bibinfo{author}{Keulen, N.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{Europe's rare earth element resource potential: An
+  overview of REE metallogenetic provinces and their geodynamic setting}}.
+\newblock \bibinfo{journal}{Ore Geology Reviews} \bibinfo{volume}{72},
+  \bibinfo{pages}{838--856}.
+\newblock \DOIprefix\doi{10.1016/j.oregeorev.2015.09.019}.
+%Type = Article
+\bibitem[{Grove et~al.(1984)Grove, Baker and Kinzler}]{Grove1984}
+\bibinfo{author}{Grove, T.L.}, \bibinfo{author}{Baker, M.B.},
+  \bibinfo{author}{Kinzler, R.J.}, \bibinfo{year}{1984}.
+\newblock \bibinfo{title}{{Coupled CaAl-NaSi diffusion in plagioclase feldspar:
+  Experiments and applications to cooling rate speedometry}}.
+\newblock \bibinfo{journal}{Geochimica et Cosmochimica Acta}
+  \bibinfo{volume}{48}, \bibinfo{pages}{2113--2121}.
+\newblock \DOIprefix\doi{10.1016/0016-7037(84)90391-0}.
+%Type = Article
+\bibitem[{Guillou et~al.(2004)Guillou, Carracedo, Paris and {P{\'{e}}r{\`{e}}z
+  Torrado}}]{Guillou2004}
+\bibinfo{author}{Guillou, H.}, \bibinfo{author}{Carracedo, J.C.},
+  \bibinfo{author}{Paris, R.}, \bibinfo{author}{{P{\'{e}}r{\`{e}}z Torrado},
+  F.J.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{{Implications for the early shield-stage evolution of
+  Tenerife from K/Ar ages and magnetic stratigraphy}}.
+\newblock \bibinfo{journal}{Earth and Planetary Science Letters}
+  \bibinfo{volume}{222}, \bibinfo{pages}{599--614}.
+\newblock \DOIprefix\doi{10.1016/j.epsl.2004.03.012}.
+%Type = Article
+\bibitem[{Gurenko et~al.(2006)Gurenko, Hoernle, Hauff, Schmincke, Han, Miura
+  and Kaneoka}]{Gurenko2006}
+\bibinfo{author}{Gurenko, A.A.}, \bibinfo{author}{Hoernle, K.A.},
+  \bibinfo{author}{Hauff, F.}, \bibinfo{author}{Schmincke, H.U.},
+  \bibinfo{author}{Han, D.}, \bibinfo{author}{Miura, Y.N.},
+  \bibinfo{author}{Kaneoka, I.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{{Major, trace element and Nd–Sr–Pb–O–He–Ar
+  isotope signatures of shield stage lavas from the central and western Canary
+  Islands: Insights into mantle and crustal processes}}.
+\newblock \bibinfo{journal}{Chemical Geology} \bibinfo{volume}{233},
+  \bibinfo{pages}{75--112}.
+\newblock \DOIprefix\doi{10.1016/j.chemgeo.2006.02.016}.
+%Type = Article
+\bibitem[{Hanchar et~al.(2001)Hanchar, Finch, Hoskin, Watson, Cherniak and
+  Mariano}]{Hanchar2001}
+\bibinfo{author}{Hanchar, J.M.}, \bibinfo{author}{Finch, R.J.},
+  \bibinfo{author}{Hoskin, P.W.O.}, \bibinfo{author}{Watson, E.B.},
+  \bibinfo{author}{Cherniak, D.J.}, \bibinfo{author}{Mariano, A.N.},
+  \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{{Rare earth elements in synthetic zircon: Part 1.
+  Synthesis, and rare earth element and phosphorus doping}}.
+\newblock \bibinfo{journal}{American Mineralogist} \bibinfo{volume}{86},
+  \bibinfo{pages}{667--680}.
+\newblock \DOIprefix\doi{10.1130/0091-7613(1990)018<0757:CTOGAS>2.3.CO;2}.
+%Type = Article
+\bibitem[{Hazen and Finger(1979)}]{Hazen1979}
+\bibinfo{author}{Hazen, R.M.}, \bibinfo{author}{Finger, L.W.},
+  \bibinfo{year}{1979}.
+\newblock \bibinfo{title}{{Bulk modulus-volume relationship for cation-anion
+  polyhedra}}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research: Solid Earth}
+  \bibinfo{volume}{84}, \bibinfo{pages}{6723--6728}.
+\newblock \DOIprefix\doi{10.1029/JB084iB12p06723}.
+%Type = Article
+\bibitem[{Hill et~al.(2011)Hill, Blundy and Wood}]{Hill2011}
+\bibinfo{author}{Hill, E.}, \bibinfo{author}{Blundy, J.D.},
+  \bibinfo{author}{Wood, B.J.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{{Clinopyroxene-melt trace element partitioning and
+  the development of a predictive model for HFSE and Sc}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{161}, \bibinfo{pages}{423--438}.
+\newblock \DOIprefix\doi{10.1007/s00410-010-0540-0}.
+%Type = Article
+\bibitem[{Hill et~al.(2000)Hill, Wood and Blundy}]{Hill2000}
+\bibinfo{author}{Hill, E.}, \bibinfo{author}{Wood, B.J.},
+  \bibinfo{author}{Blundy, J.D.}, \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{{The effect of Ca-Tschermaks component on trace
+  element partitioning between clinopyroxene and silicate melt}}.
+\newblock \bibinfo{journal}{Lithos} \bibinfo{volume}{53},
+  \bibinfo{pages}{203--215}.
+\newblock \DOIprefix\doi{10.1016/S0024-4937(00)00025-6}.
+%Type = Article
+\bibitem[{Huang et~al.(2006)Huang, Lundstrom and McDonough}]{Huang2006}
+\bibinfo{author}{Huang, F.}, \bibinfo{author}{Lundstrom, C.C.},
+  \bibinfo{author}{McDonough, W.F.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{{Effect of melt structure on trace-element
+  partitioning between clinopyroxene and silicic, alkaline, aluminous melts}}.
+\newblock \bibinfo{journal}{American Mineralogist} \bibinfo{volume}{91},
+  \bibinfo{pages}{1385--1400}.
+\newblock \DOIprefix\doi{10.2138/am.2006.1909}.
+%Type = Article
+\bibitem[{Jugo et~al.(2010)Jugo, Wilke and Botcharnikov}]{Jugo2010}
+\bibinfo{author}{Jugo, P.J.}, \bibinfo{author}{Wilke, M.},
+  \bibinfo{author}{Botcharnikov, R.E.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{{Sulfur K-edge XANES analysis of natural and
+  synthetic basaltic glasses: Implications for S speciation and S content as
+  function of oxygen fugacity}}.
+\newblock \bibinfo{journal}{Geochimica et Cosmochimica Acta}
+  \bibinfo{volume}{74}, \bibinfo{pages}{5926--5938}.
+\newblock \DOIprefix\doi{10.1016/j.gca.2010.07.022}.
+%Type = Article
+\bibitem[{Kennedy et~al.(1993)Kennedy, Lofgren and Wasserburg}]{Kennedy1993}
+\bibinfo{author}{Kennedy, A.K.}, \bibinfo{author}{Lofgren, G.E.},
+  \bibinfo{author}{Wasserburg, G.J.}, \bibinfo{year}{1993}.
+\newblock \bibinfo{title}{{An experimental study of trace element partitioning
+  between olivine, orthopyroxene and melt in chondrules: equilibrium values and
+  kinetic effects}}.
+\newblock \bibinfo{journal}{Earth and Planetary Science Letters}
+  \bibinfo{volume}{115}, \bibinfo{pages}{177--195}.
+\newblock \DOIprefix\doi{10.1016/0012-821X(93)90221-T}.
+%Type = Article
+\bibitem[{Kogarko(1990)}]{Kogarko1990}
+\bibinfo{author}{Kogarko, L.N.}, \bibinfo{year}{1990}.
+\newblock \bibinfo{title}{{Ore-forming potential of alkaline magmas}}.
+\newblock \bibinfo{journal}{Lithos} \bibinfo{volume}{26},
+  \bibinfo{pages}{167--175}.
+\newblock \DOIprefix\doi{10.1016/0024-4937(90)90046-4}.
+%Type = Article
+\bibitem[{Kovalenko et~al.(1988)Kovalenko, Hervig and Sheridan}]{Kovalenko1988}
+\bibinfo{author}{Kovalenko, V.I.}, \bibinfo{author}{Hervig, R.L.},
+  \bibinfo{author}{Sheridan, M.F.}, \bibinfo{year}{1988}.
+\newblock \bibinfo{title}{{Ion microprobe analyses of trace elements in
+  anorthoclase, hedenbergite, aenigmatite, quartz, apatite and glass in
+  pantellerite: evidence for high water contents in pantellerite melt}}.
+\newblock \bibinfo{journal}{American Mineralogist}
+\newblock \bibinfo{volume}{73}, \bibinfo{pages}{1038--1045}.
+%Type = Article
+\bibitem[{Kress and Carmichael(1991)}]{Kress1991}
+\bibinfo{author}{Kress, V.C.}, \bibinfo{author}{Carmichael, I.S.E.},
+  \bibinfo{year}{1991}.
+\newblock \bibinfo{title}{{The compressibility of silicate liquids containing
+  Fe2O3 and the effect of composition, temperature, oxygen fugacity and
+  pressure on their redox states}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{108}, \bibinfo{pages}{82--92}.
+\newblock \DOIprefix\doi{10.1007/BF00307328}.
+%Type = Article
+\bibitem[{Kumazawa(1969)}]{Kumazawa1969}
+\bibinfo{author}{Kumazawa, M.}, \bibinfo{year}{1969}.
+\newblock \bibinfo{title}{{The elastic constants of single-crystal
+  orthopyroxene}}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research}
+  \bibinfo{volume}{74}, \bibinfo{pages}{5973--5980}.
+\newblock \DOIprefix\doi{10.1029/JB074i025p05973}.
+%Type = Article
+\bibitem[{Larsen(1979)}]{Larsen1979}
+\bibinfo{author}{Larsen, L.M.}, \bibinfo{year}{1979}.
+\newblock \bibinfo{title}{{Distribution of REE and other trace elements between
+  phenocrysts and peralkaline undersaturated magmas, exemplified by rocks from
+  the Gardar igneous province, south Greenland}}.
+\newblock \bibinfo{journal}{Lithos} \bibinfo{volume}{12},
+  \bibinfo{pages}{303--315}.
+\newblock \DOIprefix\doi{10.1016/0024-4937(79)90022-7}.
+%Type = Article
+\bibitem[{Law et~al.(2000)Law, Blundy, Wood and Ragnarsdottir}]{Law2000}
+\bibinfo{author}{Law, K.M.}, \bibinfo{author}{Blundy, J.D.},
+  \bibinfo{author}{Wood, B.J.}, \bibinfo{author}{Ragnarsdottir, K.V.},
+  \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{{Trace element partitioning between wollastonite and
+  silicate-carbonate melt}}.
+\newblock \bibinfo{journal}{Mineralogical Magazine} \bibinfo{volume}{64},
+  \bibinfo{pages}{651--661}.
+\newblock \DOIprefix\doi{10.1180/002646100549670}.
+%Type = Article
+\bibitem[{Liang et~al.(1994)Liang, Richter and Watson}]{Liang1994}
+\bibinfo{author}{Liang, Y.}, \bibinfo{author}{Richter, F.M.},
+  \bibinfo{author}{Watson, E.B.}, \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{{Convection in multicomponent silicate melts driven
+  by coupled diffusion}}.
+\newblock \bibinfo{journal}{Nature} \bibinfo{volume}{369},
+  \bibinfo{pages}{390--392}.
+\newblock \DOIprefix\doi{10.1038/369390a0}.
+%Type = Article
+\bibitem[{Linnen and Keppler(1997)}]{Linnen1997}
+\bibinfo{author}{Linnen, R.L.}, \bibinfo{author}{Keppler, H.},
+  \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{{Columbite solubility in granitic melts: consequences
+  for the enrichment and fractionation of Nb and Ta in the Earth's crust}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{128}, \bibinfo{pages}{213--227}.
+\newblock \DOIprefix\doi{10.1007/s004100050304}.
+%Type = Article
+\bibitem[{Lofgren(1989)}]{Lofgren1989}
+\bibinfo{author}{Lofgren, G.}, \bibinfo{year}{1989}.
+\newblock \bibinfo{title}{{Dynamic cyrstallization of chondrule melts of
+  porphyritic olivine composition: Textures experimental and natural}}.
+\newblock \bibinfo{journal}{Geochimica et Cosmochimica Acta}
+  \bibinfo{volume}{53}, \bibinfo{pages}{461--470}.
+\newblock \DOIprefix\doi{10.1016/0016-7037(89)90397-9}.
+%Type = Article
+\bibitem[{Lofgren et~al.(2006)Lofgren, Huss and Wasserburg}]{Lofgren2006}
+\bibinfo{author}{Lofgren, G.E.}, \bibinfo{author}{Huss, G.R.},
+  \bibinfo{author}{Wasserburg, G.J.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{{An experimental study of trace-element partitioning
+  between Ti-Al-clinopyroxene and melt: Equilibrium and kinetic effects
+  including sector zoning}}.
+\newblock \bibinfo{journal}{American Mineralogist} \bibinfo{volume}{91},
+  \bibinfo{pages}{1596--1606}.
+\newblock \DOIprefix\doi{10.2138/am.2006.2108}.
+%Type = Article
+\bibitem[{Lu et~al.(1995)Lu, Anderson and Davis}]{Lu1995}
+\bibinfo{author}{Lu, F.}, \bibinfo{author}{Anderson, A.T.},
+  \bibinfo{author}{Davis, A.M.}, \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{{Diffusional gradients at the crystal / melt
+  interface and their effect on the compositions of melt inclusions}}.
+\newblock \bibinfo{journal}{The Journal of Geology}
+\newblock \bibinfo{volume}{103}, \bibinfo{pages}{591--597}.
+%Type = Article
+\bibitem[{Lundstrom et~al.(1994)Lundstrom, Shaw, Ryerson, Phinney, Gill and
+  Williams}]{Lundstrom1994}
+\bibinfo{author}{Lundstrom, C.C.}, \bibinfo{author}{Shaw, H.F.},
+  \bibinfo{author}{Ryerson, F.J.}, \bibinfo{author}{Phinney, D.L.},
+  \bibinfo{author}{Gill, J.B.}, \bibinfo{author}{Williams, Q.},
+  \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{{Compositional controls on the partitioning of U, Th,
+  Ba, Pb, Sr and Zr between clinopyroxene and haplobasaltic melts: implications
+  for uranium series disequilibria in basalts}}.
+\newblock \bibinfo{journal}{Earth and Planetary Science Letters}
+  \bibinfo{volume}{128}, \bibinfo{pages}{407--423}.
+\newblock \DOIprefix\doi{10.1016/0012-821X(94)90159-7}.
+%Type = Article
+\bibitem[{Mahood and Stimac(1990)}]{Mahood1990}
+\bibinfo{author}{Mahood, G.A.}, \bibinfo{author}{Stimac, J.A.},
+  \bibinfo{year}{1990}.
+\newblock \bibinfo{title}{{Trace-element partitioning in pantellerites and
+  trachytes}}.
+\newblock \bibinfo{journal}{Geochimica et Cosmochimica Acta}
+  \bibinfo{volume}{54}, \bibinfo{pages}{2257--2276}.
+\newblock \DOIprefix\doi{10.1016/0016-7037(90)90050-U}.
+%Type = Article
+\bibitem[{Marks et~al.(2004)Marks, Halama, Wenzel and Markl}]{Marks2004}
+\bibinfo{author}{Marks, M.}, \bibinfo{author}{Halama, R.},
+  \bibinfo{author}{Wenzel, T.}, \bibinfo{author}{Markl, G.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{{Trace element variations in clinopyroxene and
+  amphibole from alkaline to peralkaline syenites and granites: implications
+  for mineral-melt trace-element partitioning}}.
+\newblock \bibinfo{journal}{Chemical Geology} \bibinfo{volume}{211},
+  \bibinfo{pages}{185--215}.
+\newblock \DOIprefix\doi{10.1016/j.chemgeo.2004.06.032}.
+%Type = Article
+\bibitem[{Marks and Markl(2001)}]{Marks2001a}
+\bibinfo{author}{Marks, M.}, \bibinfo{author}{Markl, G.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{{Fractionation and assimilation processes in the
+  alkaline augite syenite unit of the Il{\'{i}}maussaq intrusion, south
+  Greenland, as deduced from phase equilibria}}.
+\newblock \bibinfo{journal}{Journal of Petrology} \bibinfo{volume}{42},
+  \bibinfo{pages}{1947--1969}.
+\newblock \DOIprefix\doi{10.1093/petrology/42.10.1947}.
+%Type = Article
+\bibitem[{Marks and Markl(2003)}]{Marks2003}
+\bibinfo{author}{Marks, M.}, \bibinfo{author}{Markl, G.}, \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{{Il{\'{i}}maussaq ‘en miniature': closed-system
+  fractionation in an agpaitic dyke rock from the Gardar Province, South
+  Greenland (contribution to the mineralogy of Il{\'{i}}maussaq no. 117)}}.
+\newblock \bibinfo{journal}{Mineralogical Magazine} \bibinfo{volume}{67},
+  \bibinfo{pages}{893--919}.
+\newblock \DOIprefix\doi{10.1180/0026461036750150}.
+%Type = Article
+\bibitem[{Marks and Markl(2017)}]{Marks2017}
+\bibinfo{author}{Marks, M.A.}, \bibinfo{author}{Markl, G.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{A global review on agpaitic rocks}}.
+\newblock \bibinfo{journal}{Earth-Science Reviews} \bibinfo{volume}{173},
+  \bibinfo{pages}{229--258}.
+\newblock \DOIprefix\doi{10.1016/j.earscirev.2017.06.002}.
+%Type = Article
+\bibitem[{Marks et~al.(2011)Marks, Hettmann, Schilling, Frost and
+  Markl}]{Marks2011}
+\bibinfo{author}{Marks, M.A.W.}, \bibinfo{author}{Hettmann, K.},
+  \bibinfo{author}{Schilling, J.}, \bibinfo{author}{Frost, B.R.},
+  \bibinfo{author}{Markl, G.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{{The mineralogical diversity of alkaline igneous
+  rocks: Critical factors for the transition from miaskitic to agpaitic phase
+  assemblages}}.
+\newblock \bibinfo{journal}{Journal of Petrology} \bibinfo{volume}{52},
+  \bibinfo{pages}{439--455}.
+\newblock \DOIprefix\doi{10.1093/petrology/egq086}.
+%Type = Article
+\bibitem[{M{\"{o}}ller and Williams-Jones(2016)}]{Moller2016}
+\bibinfo{author}{M{\"{o}}ller, V.}, \bibinfo{author}{Williams-Jones, A.E.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{Petrogenesis of the Nechalacho Layered Suite,
+  Canada: magmatic evolution of a REE-Nb-rich nepheline syenite intrusion}}.
+\newblock \bibinfo{journal}{Journal of Petrology} \bibinfo{volume}{57},
+  \bibinfo{pages}{229--276}.
+\newblock \DOIprefix\doi{10.1093/petrology/egw003}.
+%Type = Article
+\bibitem[{Mollo et~al.(2017)Mollo, Blundy, Giacomoni, Nazzari, Scarlato,
+  Coltorti, Langone and Andronico}]{Mollo2017}
+\bibinfo{author}{Mollo, S.}, \bibinfo{author}{Blundy, J.D.},
+  \bibinfo{author}{Giacomoni, P.}, \bibinfo{author}{Nazzari, M.},
+  \bibinfo{author}{Scarlato, P.}, \bibinfo{author}{Coltorti, M.},
+  \bibinfo{author}{Langone, A.}, \bibinfo{author}{Andronico, D.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{Clinopyroxene-melt element partitioning during
+  interaction between trachybasaltic magma and siliceous crust: Clues from
+  quartzite enclaves at Mt. Etna volcano}}.
+\newblock \bibinfo{journal}{Lithos} \bibinfo{volume}{284-285},
+  \bibinfo{pages}{447--461}.
+\newblock \DOIprefix\doi{10.1016/j.lithos.2017.05.003}.
+%Type = Article
+\bibitem[{Mollo et~al.(2013)Mollo, Blundy, Iezzi, Scarlato and
+  Langone}]{Mollo2013}
+\bibinfo{author}{Mollo, S.}, \bibinfo{author}{Blundy, J.D.},
+  \bibinfo{author}{Iezzi, G.}, \bibinfo{author}{Scarlato, P.},
+  \bibinfo{author}{Langone, A.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{The partitioning of trace elements between
+  clinopyroxene and trachybasaltic melt during rapid cooling and crystal
+  growth}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{166}, \bibinfo{pages}{1633--1654}.
+\newblock \DOIprefix\doi{10.1007/s00410-013-0946-6}.
+%Type = Article
+\bibitem[{Mollo et~al.(2016)Mollo, Forni, Bachmann, Blundy, {De Astis} and
+  Scarlato}]{Mollo2016}
+\bibinfo{author}{Mollo, S.}, \bibinfo{author}{Forni, F.},
+  \bibinfo{author}{Bachmann, O.}, \bibinfo{author}{Blundy, J.D.},
+  \bibinfo{author}{{De Astis}, G.}, \bibinfo{author}{Scarlato, P.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{Trace element partitioning between clinopyroxene and
+  trachy-phonolitic melts: A case study from the Campanian Ignimbrite (Campi
+  Flegrei, Italy)}}.
+\newblock \bibinfo{journal}{Lithos} \bibinfo{volume}{252–253},
+  \bibinfo{pages}{160--172}.
+\newblock \DOIprefix\doi{10.1016/j.lithos.2016.02.024}.
+%Type = Article
+\bibitem[{Moore et~al.(1998)Moore, Vennemann and Carmichael}]{Moore1998}
+\bibinfo{author}{Moore, G.}, \bibinfo{author}{Vennemann, T.},
+  \bibinfo{author}{Carmichael, I.S.E.}, \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{{An empirical model for the solubility of H2O in
+  magmas to 3 kilobars}}.
+\newblock \bibinfo{journal}{American Mineralogist} \bibinfo{volume}{83},
+  \bibinfo{pages}{36--42}.
+\newblock \DOIprefix\doi{10.1016/0012-821X(73)90129-5}.
+%Type = Article
+\bibitem[{Morimoto(1989)}]{Morimoto1989}
+\bibinfo{author}{Morimoto, N.}, \bibinfo{year}{1989}.
+\newblock \bibinfo{title}{{Nomenclature of pyroxenes}}.
+\newblock \bibinfo{journal}{Mineralogical Journal} \bibinfo{volume}{14},
+  \bibinfo{pages}{198--221}.
+\newblock \DOIprefix\doi{10.2465/minerj.14.198}.
+%Type = Article
+\bibitem[{Mungall and Brenan(2014)}]{Mungall2014}
+\bibinfo{author}{Mungall, J.}, \bibinfo{author}{Brenan, J.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{{Partitioning of platinum-group elements and Au
+  between sulfide liquid and basalt and the origins of mantle-crust
+  fractionation of the chalcophile elements}}.
+\newblock \bibinfo{journal}{Geochimica et Cosmochimica Acta}
+  \bibinfo{volume}{125}, \bibinfo{pages}{265--289}.
+\newblock \DOIprefix\doi{10.1016/j.gca.2013.10.002}.
+%Type = Article
+\bibitem[{Mysen et~al.(1982)Mysen, Virgo and Seifert}]{Mysen1982}
+\bibinfo{author}{Mysen, B.O.}, \bibinfo{author}{Virgo, D.},
+  \bibinfo{author}{Seifert, F.A.}, \bibinfo{year}{1982}.
+\newblock \bibinfo{title}{{The structure of silicate melts: Implications for
+  chemical and physical properties of natural magma}}.
+\newblock \bibinfo{journal}{Reviews of Geophysics} \bibinfo{volume}{20},
+  \bibinfo{pages}{353--383}.
+\newblock \DOIprefix\doi{10.1029/RG020i003p00353}.
+%Type = Article
+\bibitem[{Mysen et~al.(1985)Mysen, Virgo and Seifert}]{Mysen1985}
+\bibinfo{author}{Mysen, B.O.}, \bibinfo{author}{Virgo, D.},
+  \bibinfo{author}{Seifert, F.A.}, \bibinfo{year}{1985}.
+\newblock \bibinfo{title}{{Relationships between properties and structure of
+  aluminosilicate melts.}}
+\newblock \bibinfo{journal}{American Mineralogist} \bibinfo{volume}{70},
+  \bibinfo{pages}{88--105}.
+\newblock \DOIprefix\doi{10.1007/BF00413348}.
+%Type = Article
+\bibitem[{Niu(2004)}]{Niu2004}
+\bibinfo{author}{Niu, Y.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{{Bulk-rock major and trace element compositions of
+  abyssal peridotites: Implications for mantle melting, melt extraction and
+  post-melting processes beneath Mid-Ocean ridges}}.
+\newblock \bibinfo{journal}{Journal of Petrology} \bibinfo{volume}{45},
+  \bibinfo{pages}{2423--2458}.
+\newblock \DOIprefix\doi{10.1093/petrology/egh068}.
+%Type = Article
+\bibitem[{Olin and Wolff(2010)}]{Olin2010}
+\bibinfo{author}{Olin, P.H.}, \bibinfo{author}{Wolff, J.A.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{{Rare earth and high field strength element
+  partitioning between iron-rich clinopyroxenes and felsic liquids}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{160}, \bibinfo{pages}{761--775}.
+\newblock \DOIprefix\doi{10.1007/s00410-010-0506-2}.
+%Type = Article
+\bibitem[{Onuma et~al.(1968)Onuma, Higuchi, Wakita and Nagasawa}]{Onuma1968}
+\bibinfo{author}{Onuma, N.}, \bibinfo{author}{Higuchi, H.},
+  \bibinfo{author}{Wakita, H.}, \bibinfo{author}{Nagasawa, H.},
+  \bibinfo{year}{1968}.
+\newblock \bibinfo{title}{{Trace element partition between two pyroxenes and
+  the host lava}}.
+\newblock \bibinfo{journal}{Earth and Planetary Science Letters}
+  \bibinfo{volume}{5}, \bibinfo{pages}{47--51}.
+\newblock \DOIprefix\doi{10.1016/S0012-821X(68)80010-X}.
+%Type = Article
+\bibitem[{Paton et~al.(2011)Paton, Hellstrom, Paul, Woodhead and
+  Hergt}]{Paton2011}
+\bibinfo{author}{Paton, C.}, \bibinfo{author}{Hellstrom, J.},
+  \bibinfo{author}{Paul, B.}, \bibinfo{author}{Woodhead, J.},
+  \bibinfo{author}{Hergt, J.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{{Iolite: Freeware for the visualisation and
+  processing of mass spectrometric data}}.
+\newblock \bibinfo{journal}{Journal of Analytical Atomic Spectrometry}
+  \bibinfo{volume}{26}, \bibinfo{pages}{2508--2518}.
+\newblock \DOIprefix\doi{10.1039/C1JA10172B}.
+%Type = Article
+\bibitem[{Peters et~al.(2017)Peters, Troll, Weis, Dallai, Chadwick and
+  Schulz}]{Peters2017}
+\bibinfo{author}{Peters, S.T.}, \bibinfo{author}{Troll, V.R.},
+  \bibinfo{author}{Weis, F.A.}, \bibinfo{author}{Dallai, L.},
+  \bibinfo{author}{Chadwick, J.P.}, \bibinfo{author}{Schulz, B.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{Amphibole megacrysts as a probe into the deep
+  plumbing system of Merapi volcano, Central Java, Indonesia}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{172}, \bibinfo{pages}{1--20}.
+\newblock \DOIprefix\doi{10.1007/s00410-017-1338-0}.
+%Type = Article
+\bibitem[{Prowatke and Klemme(2005)}]{Prowatke2005}
+\bibinfo{author}{Prowatke, S.}, \bibinfo{author}{Klemme, S.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{{Effect of melt composition on the partitioning of
+  trace elements between titanite and silicate melt}}.
+\newblock \bibinfo{journal}{Geochimica et Cosmochimica Acta}
+  \bibinfo{volume}{69}, \bibinfo{pages}{695--709}.
+\newblock \DOIprefix\doi{10.1016/j.gca.2004.06.037}.
+%Type = Article
+\bibitem[{Putirka(2008)}]{Putirka2008}
+\bibinfo{author}{Putirka, K.D.}, \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{{Thermometers and Barometers for Volcanic Systems}}.
+\newblock \bibinfo{journal}{Reviews in Mineralogy and Geochemistry}
+  \bibinfo{volume}{69}, \bibinfo{pages}{61--120}.
+\newblock \DOIprefix\doi{10.2138/rmg.2008.69.3}.
+%Type = Article
+\bibitem[{Rapp and Watson(1986)}]{Rapp1986}
+\bibinfo{author}{Rapp, R.P.}, \bibinfo{author}{Watson, E.B.},
+  \bibinfo{year}{1986}.
+\newblock \bibinfo{title}{{Monazite solubility and dissolution kinetics:
+  implications for the thorium and light rare earth chemistry of felsic
+  magmas}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{94}, \bibinfo{pages}{304--316}.
+\newblock \DOIprefix\doi{10.1007/BF00371439}.
+%Type = Misc
+\bibitem[{Rasband(2016)}]{Rasband2016}
+\bibinfo{author}{Rasband, W.}, \bibinfo{year}{2016}.
+\newblock
+\newblock \bibinfo{title}{{ImageJ, U.S. National Institutes of Health,
+  Bethesda, Maryland, USA}}.
+%Type = Article
+\bibitem[{Redhammer et~al.(2006)Redhammer, Amthauer, Roth, Tippelt and
+  Lottermoser}]{Redhammer2006}
+\bibinfo{author}{Redhammer, G.J.}, \bibinfo{author}{Amthauer, G.},
+  \bibinfo{author}{Roth, G.}, \bibinfo{author}{Tippelt, G.},
+  \bibinfo{author}{Lottermoser, W.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{{Single-crystal X-ray diffraction and temperature
+  dependent 57Fe M{\"{o}}ssbauer spectroscopy on the hedenbergite-aegirine
+  (Ca,Na)(Fe2+,Fe3+)Si2O6 solid solution}}.
+\newblock \bibinfo{journal}{American Mineralogist} \bibinfo{volume}{91},
+  \bibinfo{pages}{1271--1292}.
+\newblock \DOIprefix\doi{10.2138/am.2006.2173}.
+%Type = Article
+\bibitem[{Reguir et~al.(2012)Reguir, Chakhmouradian, Pisiak, Halden, Yang, Xu,
+  Kynick{\'{y}} and Cou{\"{e}}slan}]{Reguir2012}
+\bibinfo{author}{Reguir, E.P.}, \bibinfo{author}{Chakhmouradian, A.R.},
+  \bibinfo{author}{Pisiak, L.}, \bibinfo{author}{Halden, N.M.},
+  \bibinfo{author}{Yang, P.}, \bibinfo{author}{Xu, C.},
+  \bibinfo{author}{Kynick{\'{y}}, J.}, \bibinfo{author}{Cou{\"{e}}slan, C.G.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{Trace-element composition and zoning in
+  clinopyroxene- and amphibole-group minerals: Implications for element
+  partitioning and evolution of carbonatites}}.
+\newblock \bibinfo{journal}{Lithos} \bibinfo{volume}{128},
+  \bibinfo{pages}{27--45}.
+\newblock \DOIprefix\doi{10.1016/j.lithos.2011.10.003}.
+%Type = Article
+\bibitem[{Rubatto and Hermann(2007)}]{Rubatto2007}
+\bibinfo{author}{Rubatto, D.}, \bibinfo{author}{Hermann, J.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{{Experimental zircon/melt and zircon/garnet trace
+  element partitioning and implications for the geochronology of crustal
+  rocks}}.
+\newblock \bibinfo{journal}{Chemical Geology} \bibinfo{volume}{241},
+  \bibinfo{pages}{38--61}.
+\newblock \DOIprefix\doi{10.1016/j.chemgeo.2007.01.027}.
+%Type = Article
+\bibitem[{Schmidt and Behrens(2008)}]{Schmidt2008}
+\bibinfo{author}{Schmidt, B.C.}, \bibinfo{author}{Behrens, H.},
+  \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{{Water solubility in phonolite melts: Influence of
+  melt composition and temperature}}.
+\newblock \bibinfo{journal}{Chemical Geology} \bibinfo{volume}{256},
+  \bibinfo{pages}{259--268}.
+\newblock \DOIprefix\doi{10.1016/j.chemgeo.2008.06.043}.
+%Type = Article
+\bibitem[{Schmidt et~al.(1999)Schmidt, Bottazzi, Vannucci and
+  Mengel}]{Schmidt1999}
+\bibinfo{author}{Schmidt, K.H.}, \bibinfo{author}{Bottazzi, P.},
+  \bibinfo{author}{Vannucci, R.}, \bibinfo{author}{Mengel, K.},
+  \bibinfo{year}{1999}.
+\newblock \bibinfo{title}{{Trace element partitioning between phlogopite,
+  clinopyroxene and leucite lamproite melt}}.
+\newblock \bibinfo{journal}{Earth and Planetary Science Letters}
+  \bibinfo{volume}{168}, \bibinfo{pages}{287--299}.
+\newblock \DOIprefix\doi{10.1016/S0012-821X(99)00056-4}.
+%Type = Article
+\bibitem[{Schmidt et~al.(2006)Schmidt, Connolly, G{\"{u}}nther and
+  Bogaerts}]{Schmidt2006}
+\bibinfo{author}{Schmidt, M.W.}, \bibinfo{author}{Connolly, J.A.D.},
+  \bibinfo{author}{G{\"{u}}nther, D.}, \bibinfo{author}{Bogaerts, M.},
+  \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{{Element partitioning: The role of melt structure and
+  composition}}.
+\newblock \bibinfo{journal}{Science} \bibinfo{volume}{312},
+  \bibinfo{pages}{1646--1650}.
+\newblock \DOIprefix\doi{10.1126/science.1126690}.
+%Type = Article
+\bibitem[{Severs et~al.(2009)Severs, Beard, Fedele, Hanchar, Mutchler and
+  Bodnar}]{Severs2009}
+\bibinfo{author}{Severs, M.J.}, \bibinfo{author}{Beard, J.S.},
+  \bibinfo{author}{Fedele, L.}, \bibinfo{author}{Hanchar, J.M.},
+  \bibinfo{author}{Mutchler, S.R.}, \bibinfo{author}{Bodnar, R.J.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Partitioning behavior of trace elements between
+  dacitic melt and plagioclase, orthopyroxene, and clinopyroxene based on laser
+  ablation ICPMS analysis of silicate melt inclusions}}.
+\newblock \bibinfo{journal}{Geochimica et Cosmochimica Acta}
+  \bibinfo{volume}{73}, \bibinfo{pages}{2123--2141}.
+\newblock \DOIprefix\doi{10.1016/j.gca.2009.01.009}.
+%Type = Article
+\bibitem[{Shannon(1976)}]{Shannon1976}
+\bibinfo{author}{Shannon, R.}, \bibinfo{year}{1976}.
+\newblock \bibinfo{title}{{Revised effective ionic radii and systematic studies
+  of interatomic distances in halides and chalcogenides}}.
+\newblock \bibinfo{journal}{Acta Crystallographica Section A}
+\newblock \bibinfo{volume}{32}, \bibinfo{pages}{751--767}.
+%Type = Article
+\bibitem[{Shea and Hammer(2013)}]{Shea2013}
+\bibinfo{author}{Shea, T.}, \bibinfo{author}{Hammer, J.E.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Kinetics of cooling- and decompression-induced
+  crystallization in hydrous mafic-intermediate magmas}}.
+\newblock \bibinfo{journal}{Journal of Volcanology and Geothermal Research}
+  \bibinfo{volume}{260}, \bibinfo{pages}{127--145}.
+\newblock \DOIprefix\doi{10.1016/j.jvolgeores.2013.04.018}.
+%Type = Article
+\bibitem[{Shearer and Larsen(1994)}]{Shearer1994}
+\bibinfo{author}{Shearer, C.K.}, \bibinfo{author}{Larsen, L.M.},
+  \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{{Sector-zoned aegirine from the Ilimaussaq alkaline
+  intrusion, South Greenland; implications for trace-element behavior in
+  pyroxene}}.
+\newblock \bibinfo{journal}{American Mineralogist}
+\newblock \bibinfo{volume}{79}, \bibinfo{pages}{340--352}.
+%Type = Article
+\bibitem[{Sj{\"{o}}qvist et~al.(2013)Sj{\"{o}}qvist, Cornell, Andersen,
+  Erambert, Ek and Leijd}]{Sjoqvist2013}
+\bibinfo{author}{Sj{\"{o}}qvist, A.}, \bibinfo{author}{Cornell, D.},
+  \bibinfo{author}{Andersen, T.}, \bibinfo{author}{Erambert, M.},
+  \bibinfo{author}{Ek, M.}, \bibinfo{author}{Leijd, M.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Three compositional varieties of rare-earth element
+  ore: Eudialyte-group minerals from the Norra K{\"{a}}rr alkaline complex,
+  Southern Sweden}}.
+\newblock \bibinfo{journal}{Minerals} \bibinfo{volume}{3},
+  \bibinfo{pages}{94--120}.
+\newblock \DOIprefix\doi{10.3390/min3010094}.
+%Type = Article
+\bibitem[{S{\o}rensen(1992)}]{Sorensen1992}
+\bibinfo{author}{S{\o}rensen, H.}, \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{{Agpaitic nepheline syenites: a potential source of
+  rare elements}}.
+\newblock \bibinfo{journal}{Applied Geochemistry} \bibinfo{volume}{7},
+  \bibinfo{pages}{417--427}.
+\newblock \DOIprefix\doi{10.1016/0883-2927(92)90003-L}.
+%Type = Article
+\bibitem[{Spera and Bohrson(2001)}]{Spera2001}
+\bibinfo{author}{Spera, F.J.}, \bibinfo{author}{Bohrson, W.A.},
+  \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{{Energy-constrained open-system magmatic processes I:
+  General model and energy-constrained assimilation and fractional
+  crystallization (EC-AFC) formulation}}.
+\newblock \bibinfo{journal}{Journal of Petrology} \bibinfo{volume}{42},
+  \bibinfo{pages}{999--1018}.
+\newblock \DOIprefix\doi{10.1093/petrology/42.5.999}.
+%Type = Book
+\bibitem[{Stevens(1996)}]{Stevens1996}
+\bibinfo{author}{Stevens, J.}, \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{{Applied multivariate analysis for the social
+  sciences}}.
+\newblock
+\newblock \bibinfo{publisher}{Lawrence Erlbaum}, \bibinfo{address}{Mahwah, NJ}.
+%Type = Article
+\bibitem[{Sun and Liang(2012)}]{Sun2012}
+\bibinfo{author}{Sun, C.}, \bibinfo{author}{Liang, Y.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{Distribution of REE between clinopyroxene and
+  basaltic melt along a mantle adiabat: Effects of major element composition,
+  water, and temperature}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{163}, \bibinfo{pages}{807--823}.
+\newblock \DOIprefix\doi{10.1007/s00410-011-0700-x}.
+%Type = Article
+\bibitem[{Thirlwall et~al.(2000)Thirlwall, Singer and Marriner}]{Thirlwall2000}
+\bibinfo{author}{Thirlwall, M.F.}, \bibinfo{author}{Singer, B.S.},
+  \bibinfo{author}{Marriner, G.F.}, \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{{39Ar--40Ar ages and geochemistry of the basaltic
+  shield stage of Tenerife, Canary Islands, Spain}}.
+\newblock \bibinfo{journal}{Journal of Volcanology and Geothermal Research}
+  \bibinfo{volume}{103}, \bibinfo{pages}{247--297}.
+\newblock \DOIprefix\doi{10.1016/S0377-0273(00)00227-4}.
+%Type = Article
+\bibitem[{Troll and Schmincke(2002)}]{Troll2002}
+\bibinfo{author}{Troll, V.}, \bibinfo{author}{Schmincke, H.},
+  \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{{Magma mixing and crustal recycling recorded in
+  ternary feldspar from compositionally zoned peralkaline ignimbrite 'A', Gran
+  Canaria, Canary Islands}}.
+\newblock \bibinfo{journal}{Journal of Petrology} \bibinfo{volume}{43},
+  \bibinfo{pages}{243--270}.
+\newblock \DOIprefix\doi{10.1093/petrology/43.2.243}.
+%Type = Article
+\bibitem[{{Van Orman} et~al.(2001){Van Orman}, Grove and
+  Shimizu}]{VanOrman2001}
+\bibinfo{author}{{Van Orman}, J.A.}, \bibinfo{author}{Grove, T.L.},
+  \bibinfo{author}{Shimizu, N.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{{Rare earth element diffusion in diopside: influence
+  of temperature, pressure, and ionic radius, and an elastic model for
+  diffusion in silicates}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{141}, \bibinfo{pages}{687--703}.
+\newblock \DOIprefix\doi{10.1007/s004100100269}.
+%Type = Article
+\bibitem[{Walker et~al.(1976)Walker, Kirkpatrick, Longhi and Hays}]{Walker1976}
+\bibinfo{author}{Walker, D.}, \bibinfo{author}{Kirkpatrick, R.J.},
+  \bibinfo{author}{Longhi, J.}, \bibinfo{author}{Hays, J.F.},
+  \bibinfo{year}{1976}.
+\newblock \bibinfo{title}{{Crystallization history of lunar picritic basalt
+  sample 12002: Phase-equilibria and cooling-rate studies}}.
+\newblock \bibinfo{journal}{Bulletin of the Geological Society of America}
+  \bibinfo{volume}{87}, \bibinfo{pages}{646--656}.
+\newblock \DOIprefix\doi{10.1130/0016-7606(1976)87<646:CHOLPB>2.0.CO;2}.
+%Type = Article
+\bibitem[{Watson(1979)}]{Watson1979}
+\bibinfo{author}{Watson, E.B.}, \bibinfo{year}{1979}.
+\newblock \bibinfo{title}{{Zircon saturation in felsic liquids: Experimental
+  results and applications to trace element geochemistry}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{70}, \bibinfo{pages}{407--419}.
+\newblock \DOIprefix\doi{10.1007/BF00371047}.
+%Type = Article
+\bibitem[{Weidner and Vaughan(1982)}]{Weidner1982}
+\bibinfo{author}{Weidner, D.J.}, \bibinfo{author}{Vaughan, M.T.},
+  \bibinfo{year}{1982}.
+\newblock \bibinfo{title}{{Elasticity of pyroxenes: Effects of composition
+  versus crystal structure}}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research}
+\newblock \bibinfo{volume}{87}, \bibinfo{pages}{9349--9353}.
+%Type = Article
+\bibitem[{Wiesmaier et~al.(2012)Wiesmaier, Troll, Carracedo, Ellam, Bindeman
+  and Wolff}]{Wiesmaier2012}
+\bibinfo{author}{Wiesmaier, S.}, \bibinfo{author}{Troll, V.R.},
+  \bibinfo{author}{Carracedo, J.C.}, \bibinfo{author}{Ellam, R.M.},
+  \bibinfo{author}{Bindeman, I.}, \bibinfo{author}{Wolff, J.A.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{Bimodality of lavas in the Teide--Pico Viejo
+  Succession in Tenerife---the role of crustal melting in the origin of recent
+  phonolites}}.
+\newblock \bibinfo{journal}{Journal of Petrology} \bibinfo{volume}{53},
+  \bibinfo{pages}{2465--2495}.
+\newblock \DOIprefix\doi{10.1093/petrology/egs056}.
+%Type = Article
+\bibitem[{Wood and Blundy(1997)}]{Wood1997}
+\bibinfo{author}{Wood, B.J.}, \bibinfo{author}{Blundy, J.D.},
+  \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{{A predictive model for rare earth element
+  partitioning between clinopyroxene and anhydrous silicate melt}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{129}, \bibinfo{pages}{166--181}.
+\newblock \DOIprefix\doi{10.1007/s004100050330}.
+%Type = Article
+\bibitem[{Wood and Blundy(2001)}]{Wood2001charge}
+\bibinfo{author}{Wood, B.J.}, \bibinfo{author}{Blundy, J.D.},
+  \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{{The effect of cation charge on crystal--melt
+  partitioning of trace elements}}.
+\newblock \bibinfo{journal}{Earth and Planetary Science Letters}
+  \bibinfo{volume}{188}, \bibinfo{pages}{59--71}.
+\newblock \DOIprefix\doi{10.1016/S0012-821X(01)00294-1}.
+%Type = Incollection
+\bibitem[{Wood and Blundy(2003)}]{Wood2003}
+\bibinfo{author}{Wood, B.J.}, \bibinfo{author}{Blundy, J.D.},
+  \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{{Trace element partitioning under crustal and
+  uppermost mantle conditions: The influences of ionic radius, cation charge,
+  pressure, and temperature}}, in: \bibinfo{editor}{Carlson, R.W.} (Ed.),
+  \bibinfo{booktitle}{The Mantle and Core: Treatise on Geochemistry}.
+  \bibinfo{publisher}{Elsevier}. volume~\bibinfo{volume}{2}. chapter
+  \bibinfo{chapter}{2.09}, pp. \bibinfo{pages}{395--424}.
+\newblock \DOIprefix\doi{10.1016/B0-08-043751-6/02009-0}.
+%Type = Incollection
+\bibitem[{Wood and Blundy(2014)}]{Wood2014}
+\bibinfo{author}{Wood, B.J.}, \bibinfo{author}{Blundy, J.D.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{{Trace element partitioning: The influences of ionic
+  radius, cation charge, pressure, and temperature}}, in:
+  \bibinfo{editor}{Carlson, R.W.} (Ed.), \bibinfo{booktitle}{The Mantle and
+  Core: Treatise on Geochemistry: Second Edition}.
+  \bibinfo{publisher}{Elsevier}. chapter \bibinfo{chapter}{3.11}, pp.
+  \bibinfo{pages}{421--445}.
+\newblock \DOIprefix\doi{10.1016/B978-0-08-095975-7.00206-0}.
+%Type = Article
+\bibitem[{Wood and Trigila(2001)}]{Wood2001cpx}
+\bibinfo{author}{Wood, B.J.}, \bibinfo{author}{Trigila, R.},
+  \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{{Experimental determination of aluminous
+  clinopyroxene--melt partition coefficients for potassic liquids, with
+  application to the evolution of the Roman province potassic magmas}}.
+\newblock \bibinfo{journal}{Chemical Geology} \bibinfo{volume}{172},
+  \bibinfo{pages}{213--223}.
+\newblock \DOIprefix\doi{10.1016/S0009-2541(00)00259-X}.
+%Type = Article
+\bibitem[{Workman and Hart(2005)}]{Workman2005}
+\bibinfo{author}{Workman, R.K.}, \bibinfo{author}{Hart, S.R.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{{Major and trace element composition of the depleted
+  MORB mantle (DMM)}}.
+\newblock \bibinfo{journal}{Earth and Planetary Science Letters}
+  \bibinfo{volume}{231}, \bibinfo{pages}{53--72}.
+\newblock \DOIprefix\doi{10.1016/j.epsl.2004.12.005}.
+%Type = Article
+\bibitem[{W{\"{o}}rner et~al.(1983)W{\"{o}}rner, Beusen, Duchateau, Gijbels and
+  Schmincke}]{Worner1983}
+\bibinfo{author}{W{\"{o}}rner, G.}, \bibinfo{author}{Beusen, J.M.},
+  \bibinfo{author}{Duchateau, N.}, \bibinfo{author}{Gijbels, R.},
+  \bibinfo{author}{Schmincke, H.U.}, \bibinfo{year}{1983}.
+\newblock \bibinfo{title}{{Trace element abundances and mineral/melt
+  distribution coefficients in phonolites from the Laacher See volcano
+  (Germany)}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{84}, \bibinfo{pages}{152--173}.
+\newblock \DOIprefix\doi{10.1007/BF00371282}.
+%Type = Article
+\bibitem[{Xu et~al.(2010)Xu, Kynicky, Chakhmouradian, Campbell and
+  Allen}]{Xu2010}
+\bibinfo{author}{Xu, C.}, \bibinfo{author}{Kynicky, J.},
+  \bibinfo{author}{Chakhmouradian, A.R.}, \bibinfo{author}{Campbell, I.H.},
+  \bibinfo{author}{Allen, C.M.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{{Trace-element modeling of the magmatic evolution of
+  rare-earth-rich carbonatite from the Miaoya deposit, Central China}}.
+\newblock \bibinfo{journal}{Lithos} \bibinfo{volume}{118},
+  \bibinfo{pages}{145--155}.
+\newblock \DOIprefix\doi{10.1016/j.lithos.2010.04.003}.
+%Type = Article
+\bibitem[{Yao et~al.(2012)Yao, Sun and Liang}]{Yao2012}
+\bibinfo{author}{Yao, L.}, \bibinfo{author}{Sun, C.}, \bibinfo{author}{Liang,
+  Y.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{A parameterized model for REE distribution between
+  low-Ca pyroxene and basaltic melts with applications to REE partitioning in
+  low-Ca pyroxene along a mantle adiabat and during pyroxenite-derived melt and
+  peridotite interaction}}.
+\newblock \bibinfo{journal}{Contributions to Mineralogy and Petrology}
+  \bibinfo{volume}{164}, \bibinfo{pages}{261--280}.
+\newblock \DOIprefix\doi{10.1007/s00410-012-0737-5}.
+%Type = Article
+\bibitem[{Zhang et~al.(2010)Zhang, Ni and Chen}]{Zhang2010}
+\bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Ni, H.}, \bibinfo{author}{Chen,
+  Y.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{{Diffusion data in silicate melts}}.
+\newblock \bibinfo{journal}{Reviews in Mineralogy and Geochemistry}
+  \bibinfo{volume}{72}, \bibinfo{pages}{311--408}.
+\newblock \DOIprefix\doi{10.2138/rmg.2010.72.8}.
+
+\end{thebibliography}

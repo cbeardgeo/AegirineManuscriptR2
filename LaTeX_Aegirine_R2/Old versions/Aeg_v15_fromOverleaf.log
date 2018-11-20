@@ -1,0 +1,1459 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.2.6)  26 JUL 2018 18:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Aeg_v15_fromOverleaf.tex
+(./Aeg_v15_fromOverleaf.tex
+LaTeX2e <2017-04-15>
+Babel <3.17> and hyphenation patterns for 84 language(s) loaded.
+(c:/texlive/2017/texmf-dist/tex/latex/elsarticle/elsarticle.cls
+Document Class: elsarticle 2009/09/17, 1.2.0: Elsevier Ltd
+\@bls=\dimen102
+(c:/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(c:/texlive/2017/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(c:/texlive/2017/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(c:/texlive/2017/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\c@tnote=\count87
+\c@fnote=\count88
+\c@cnote=\count89
+\c@ead=\count90
+\c@author=\count91
+\@eadauthor=\toks15
+\c@affn=\count92
+\absbox=\box26
+\keybox=\box27
+\Columnwidth=\dimen106
+\space@left=\dimen107
+\els@boxa=\box28
+\els@boxb=\box29
+\leftMargin=\dimen108
+\@enLab=\toks16
+\@sep=\skip43
+\@@sep=\skip44
+
+(./Aeg_v15_fromOverleaf.spl)
+(c:/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count93
+)
+\splwrite=\write3
+\openout3 = `Aeg_v15_fromOverleaf.spl'.
+
+)
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2017/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(c:/texlive/2017/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(c:/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(c:/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count94
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/texlive/2017/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(c:/texlive/2017/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box30
+)
+\tc@llx=\dimen109
+\tc@lly=\dimen110
+\tc@urx=\dimen111
+\tc@ury=\dimen112
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(c:/texlive/2017/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen113
+\adjbox@Height=\dimen114
+\adjbox@Depth=\dimen115
+\adjbox@Totalheight=\dimen116
+
+(c:/texlive/2017/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count95
+)
+(c:/texlive/2017/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box31
+\sift@deathcycles=\count96
+\@vwid@loff=\dimen117
+\@vwid@roff=\dimen118
+))
+(c:/texlive/2017/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2017/07/24 v4.07 for typesetting chemical formulae
+
+(c:/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2017/12/16 L3 programming layer (loader) 
+
+(c:/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2017/12/16 L3 programming layer (code)
+\c_max_int=\count97
+\l_tmpa_int=\count98
+\l_tmpb_int=\count99
+\g_tmpa_int=\count100
+\g_tmpb_int=\count101
+\g__intarray_font_int=\count102
+\g__prg_map_int=\count103
+\c_log_iow=\count104
+\l_iow_line_count_int=\count105
+\l__iow_line_target_int=\count106
+\l__iow_one_indent_int=\count107
+\l__iow_indent_int=\count108
+\c_zero_dim=\dimen119
+\c_max_dim=\dimen120
+\l_tmpa_dim=\dimen121
+\l_tmpb_dim=\dimen122
+\g_tmpa_dim=\dimen123
+\g_tmpb_dim=\dimen124
+\c_zero_skip=\skip47
+\c_max_skip=\skip48
+\l_tmpa_skip=\skip49
+\l_tmpb_skip=\skip50
+\g_tmpa_skip=\skip51
+\g_tmpb_skip=\skip52
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count109
+\c__fp_leading_shift_int=\count110
+\c__fp_middle_shift_int=\count111
+\c__fp_trailing_shift_int=\count112
+\c__fp_big_leading_shift_int=\count113
+\c__fp_big_middle_shift_int=\count114
+\c__fp_big_trailing_shift_int=\count115
+\c__fp_Bigg_leading_shift_int=\count116
+\c__fp_Bigg_middle_shift_int=\count117
+\c__fp_Bigg_trailing_shift_int=\count118
+\c__fp_rand_size_int=\count119
+\c__fp_rand_four_int=\count120
+\c__fp_rand_eight_int=\count121
+\l__sort_length_int=\count122
+\l__sort_min_int=\count123
+\l__sort_top_int=\count124
+\l__sort_max_int=\count125
+\l__sort_true_max_int=\count126
+\l__sort_block_int=\count127
+\l__sort_begin_int=\count128
+\l__sort_end_int=\count129
+\l__sort_A_int=\count130
+\l__sort_B_int=\count131
+\l__sort_C_int=\count132
+\l__tl_build_start_index_int=\count133
+\l__tl_build_index_int=\count134
+\l__tl_analysis_normal_int=\count135
+\l__tl_analysis_index_int=\count136
+\l__tl_analysis_nesting_int=\count137
+\l__tl_analysis_type_int=\count138
+\l__regex_internal_a_int=\count139
+\l__regex_internal_b_int=\count140
+\l__regex_internal_c_int=\count141
+\l__regex_balance_int=\count142
+\l__regex_group_level_int=\count143
+\l__regex_mode_int=\count144
+\c__regex_cs_in_class_mode_int=\count145
+\c__regex_cs_mode_int=\count146
+\l__regex_catcodes_int=\count147
+\l__regex_default_catcodes_int=\count148
+\c__regex_catcode_D_int=\count149
+\c__regex_catcode_S_int=\count150
+\c__regex_catcode_L_int=\count151
+\c__regex_catcode_O_int=\count152
+\c__regex_catcode_A_int=\count153
+\c__regex_all_catcodes_int=\count154
+\l__regex_show_lines_int=\count155
+\l__regex_min_state_int=\count156
+\l__regex_max_state_int=\count157
+\l__regex_left_state_int=\count158
+\l__regex_right_state_int=\count159
+\l__regex_capturing_group_int=\count160
+\l__regex_min_pos_int=\count161
+\l__regex_max_pos_int=\count162
+\l__regex_curr_pos_int=\count163
+\l__regex_start_pos_int=\count164
+\l__regex_success_pos_int=\count165
+\l__regex_curr_char_int=\count166
+\l__regex_curr_catcode_int=\count167
+\l__regex_last_char_int=\count168
+\l__regex_case_changed_char_int=\count169
+\l__regex_curr_state_int=\count170
+\l__regex_step_int=\count171
+\l__regex_min_active_int=\count172
+\l__regex_max_active_int=\count173
+\l__regex_replacement_csnames_int=\count174
+\l__regex_match_count_int=\count175
+\l__regex_min_submatch_int=\count176
+\l__regex_submatch_int=\count177
+\l__regex_zeroth_submatch_int=\count178
+\g__debug_trace_regex_int=\count179
+\c_empty_box=\box32
+\l_tmpa_box=\box33
+\l_tmpb_box=\box34
+\g_tmpa_box=\box35
+\g_tmpb_box=\box36
+\l__box_top_dim=\dimen125
+\l__box_bottom_dim=\dimen126
+\l__box_left_dim=\dimen127
+\l__box_right_dim=\dimen128
+\l__box_top_new_dim=\dimen129
+\l__box_bottom_new_dim=\dimen130
+\l__box_left_new_dim=\dimen131
+\l__box_right_new_dim=\dimen132
+\l__box_internal_box=\box37
+\l__coffin_internal_box=\box38
+\l__coffin_internal_dim=\dimen133
+\l__coffin_offset_x_dim=\dimen134
+\l__coffin_offset_y_dim=\dimen135
+\l__coffin_x_dim=\dimen136
+\l__coffin_y_dim=\dimen137
+\l__coffin_x_prime_dim=\dimen138
+\l__coffin_y_prime_dim=\dimen139
+\c_empty_coffin=\box39
+\l__coffin_aligned_coffin=\box40
+\l__coffin_aligned_internal_coffin=\box41
+\l_tmpa_coffin=\box42
+\l_tmpb_coffin=\box43
+\l__coffin_display_coffin=\box44
+\l__coffin_display_coord_coffin=\box45
+\l__coffin_display_pole_coffin=\box46
+\l__coffin_display_offset_dim=\dimen140
+\l__coffin_display_x_dim=\dimen141
+\l__coffin_display_y_dim=\dimen142
+\l__coffin_bounding_shift_dim=\dimen143
+\l__coffin_left_corner_dim=\dimen144
+\l__coffin_right_corner_dim=\dimen145
+\l__coffin_bottom_corner_dim=\dimen146
+\l__coffin_top_corner_dim=\dimen147
+\l__coffin_scaled_total_height_dim=\dimen148
+\l__coffin_scaled_width_dim=\dimen149
+)
+(c:/texlive/2017/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count180
+\l__driver_tmp_box=\box47
+))
+(c:/texlive/2017/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2017/12/16 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count181
+\calc@Bcount=\count182
+\calc@Adimen=\dimen150
+\calc@Bdimen=\dimen151
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count183
+\calc@Cskip=\skip55
+)
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip56
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen152
+))
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+)
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count184
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count185
+\leftroot@=\count186
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count187
+\DOTSCASE@=\count188
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box48
+\strutbox@=\box49
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count189
+\c@MaxMatrixCols=\count190
+\dotsspace@=\muskip16
+\c@parentequation=\count191
+\dspbrk@lvl=\count192
+\tag@help=\toks21
+\row@=\count193
+\column@=\count194
+\maxfields@=\count195
+\andhelp@=\toks22
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks23
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(c:/texlive/2017/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+(c:/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2017/12/16 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count196
+\g__xparse_grabber_int=\count197
+\l__xparse_m_args_int=\count198
+\l__xparse_mandatory_args_int=\count199
+\l__xparse_v_nesting_int=\count266
+)
+Package: chemgreek 2016/12/20 v1.1 interfaceforuprightgreeklettersforuseinchemi
+stry (CN)
+\l__chemgreek_tmpa_int=\count267
+\g__chemgreek_tmpa_int=\count268
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newchemgreekmapping with sig. 'O{}mm' on line 336.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \renewchemgreekmapping with sig. 'O{}mm' on line 339.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \declarechemgreekmapping with sig. 'O{}mm' on line 342.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newchemgreekmappingalias with sig. 'mm' on line 347.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \renewchemgreekmappingalias with sig. 'mm' on line 350.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \declarechemgreekmappingalias with sig. 'mm' on line 353.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \changechemgreeksymbol with sig. 'mmmm' on line 383.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \chemgreekmappingsymbol with sig. 'mm' on line 477.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \activatechemgreekmapping with sig. 'sm' on line 486.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \selectchemgreekmapping with sig. 'm' on line 491.
+.................................................
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count269
+\__mhchem_arrow_extPgfLength_skip=\skip59
+\mhchem@minispace@tmp=\skip60
+\mhchem@minibackspace@tmp=\skip61
+\mhchem@bondwidth=\skip62
+\mhchem@bondheight=\skip63
+\mhchem@smallbondwidth@tmpA=\skip64
+\mhchem@smallbondwidth@tmpB=\skip65
+\mhchem@smallbondwidth=\skip66
+\mhchem@bondtmp@minussidebearingleft=\skip67
+\mhchem@bondtmp@minussidebearingright=\skip68
+\l__mhchem_option_version_int=\count270
+\mhchem@option@minusmathsidebearingleft=\dimen161
+\mhchem@option@minusmathsidebearingright=\dimen162
+\mhchem@option@minustextsidebearingleft=\dimen163
+\mhchem@option@minustextsidebearingright=\dimen164
+)
+(c:/texlive/2017/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2017/11/26 v2.7k A comprehensive (SI) units package
+
+(c:/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen165
+\extrarowheight=\dimen166
+\NC@list=\toks25
+\extratabsurround=\skip69
+\backup@length=\skip70
+)
+\l__siunitx_tmp_box=\box50
+\l__siunitx_tmp_dim=\dimen167
+\l__siunitx_tmp_int=\count271
+\l__siunitx_number_mantissa_length_int=\count272
+\l__siunitx_number_uncert_length_int=\count273
+\l__siunitx_round_int=\count274
+\l__siunitx_process_decimal_int=\count275
+\l__siunitx_process_uncertainty_int=\count276
+\l__siunitx_process_fixed_int=\count277
+\l__siunitx_process_integer_min_int=\count278
+\l__siunitx_process_precision_int=\count279
+\l__siunitx_group_min_int=\count280
+\l__siunitx_angle_marker_box=\box51
+\l__siunitx_angle_unit_box=\box52
+\l__siunitx_angle_marker_dim=\dimen168
+\l__siunitx_angle_unit_dim=\dimen169
+\l__siunitx_unit_int=\count281
+\l__siunitx_unit_denominator_int=\count282
+\l__siunitx_unit_numerator_int=\count283
+\l__siunitx_unit_prefix_int=\count284
+\l__siunitx_unit_prefix_base_int=\count285
+\l__siunitx_unit_prefix_gram_int=\count286
+\l__siunitx_number_product_int=\count287
+\c__siunitx_one_fill_skip=\skip71
+\l__siunitx_table_unit_align_skip=\skip72
+\l__siunitx_table_exponent_dim=\dimen170
+\l__siunitx_table_integer_dim=\dimen171
+\l__siunitx_table_mantissa_dim=\dimen172
+\l__siunitx_table_marker_dim=\dimen173
+\l__siunitx_table_result_dim=\dimen174
+\l__siunitx_table_uncert_dim=\dimen175
+\l__siunitx_table_fill_pre_dim=\dimen176
+\l__siunitx_table_fill_post_dim=\dimen177
+\l__siunitx_table_fill_mid_dim=\dimen178
+\l__siunitx_table_pre_box=\box53
+\l__siunitx_table_post_box=\box54
+\l__siunitx_table_mantissa_box=\box55
+\l__siunitx_table_result_box=\box56
+\l__siunitx_table_number_align_skip=\skip73
+\l__siunitx_table_text_align_skip=\skip74
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7250.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7253.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7256.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7259.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7262.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7265.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7268.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7283.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \num with sig. 'om' on line 7292.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7301.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrange with sig. 'omm' on line 7310.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7322.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrange with sig. 'ommm' on line 7334.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SI with sig. 'omom' on line 7346.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sisetup with sig. 'm' on line 7349.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tablenum with sig. 'om' on line 7364.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \si with sig. 'om' on line 7376.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numInBookmark with sig. 'om' on line 7423.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrangeInBookmark with sig. 'omm' on line 7425.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIInBookmark with sig. 'omom' on line 7427.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlistInBookmark with sig. 'omm' on line 7429.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7431.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \siInBookmark with sig. 'om' on line 7432.
+.................................................
+\g__file_internal_ior=\read1
+
+(c:/texlive/2017/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(c:/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count288
+\rotFPtop=\skip75
+\rotFPbot=\skip76
+\rot@float@box=\box57
+\rot@mess@toks=\toks26
+)
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+
+(c:/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+(c:/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen179
+\lightrulewidth=\dimen180
+\cmidrulewidth=\dimen181
+\belowrulesep=\dimen182
+\belowbottomsep=\dimen183
+\aboverulesep=\dimen184
+\abovetopsep=\dimen185
+\cmidrulesep=\dimen186
+\cmidrulekern=\dimen187
+\defaultaddspace=\dimen188
+\@cmidla=\count289
+\@cmidlb=\count290
+\@aboverulesep=\dimen189
+\@belowrulesep=\dimen190
+\@thisruleclass=\count291
+\@lastruleclass=\count292
+\@thisrulewidth=\dimen191
+)
+(c:/texlive/2017/texmf-dist/tex/latex/endfloat/endfloat.sty
+Package: endfloat 2011/12/25 v2.5d LaTeX2e package puts figures and tables at e
+nd (jdm)
+\c@postfigure=\count293
+\efloat@postfff=\write4
+\@ef@fffopen=\count294
+)
+(c:/texlive/2017/texmf-dist/tex/latex/preprint/figcaps.sty
+Package: figcaps 1999/02/23 4.7 (PWD)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count295
+\output=\toks27
+\linenoprevgraf=\count296
+\linenumbersep=\dimen192
+\linenumberwidth=\dimen193
+\c@linenumber=\count297
+\c@pagewiselinenumber=\count298
+\c@LN@truepage=\count299
+\c@internallinenumber=\count300
+\c@internallinenumbers=\count301
+\quotelinenumbersep=\dimen194
+\bframerule=\dimen195
+\bframesep=\dimen196
+\bframebox=\box58
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(./Aeg_v15_fromOverleaf.aux)
+\openout1 = `Aeg_v15_fromOverleaf.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+
+(c:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count302
+\scratchdimen=\dimen197
+\scratchbox=\box59
+\nofMPsegments=\count303
+\nofMParguments=\count304
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count305
+\MPscratchDim=\dimen198
+\MPnumerator=\count306
+\makeMPintoPDFobject=\count307
+\everyMPtoPDFconversion=\toks29
+) (c:/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(c:/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+.................................................
+. chemgreek info: "mapping-activated"
+. 
+. Activating mapping `default' on line 112.
+.................................................
+
+(c:/texlive/2017/texmf-dist/tex/latex/translator/translator-basic-dictionary-En
+glish.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(c:/texlive/2017/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+\c__siunitx_mathsf_int=\count308
+LaTeX Font Info:    Try loading font information for U+msa on input line 112.
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 112.
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+\c__siunitx_mathtt_int=\count309
+ [1
+
+
+{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+Package epstopdf Info: Source file: <1_Backscatter.eps>
+(epstopdf)                    date: 2018-07-17 11:23:19
+(epstopdf)                    size: 7447598 bytes
+(epstopdf)             Output file: <1_Backscatter-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-17 11:23:23
+(epstopdf)                    size: 1161789 bytes
+(epstopdf)             Command: <repstopdf --outfile=1_Backscatter-eps-converte
+d-to.pdf 1_Backscatter.eps>
+(epstopdf)             \includegraphics on input line 215.
+Package epstopdf Info: Output file is already uptodate.
+<1_Backscatter-eps-converted-to.pdf, id=30, 480.79625pt x 185.69376pt>
+File: 1_Backscatter-eps-converted-to.pdf Graphic file (type pdf)
+<use 1_Backscatter-eps-converted-to.pdf>
+Package pdftex.def Info: 1_Backscatter-eps-converted-to.pdf  used on input line
+ 215.
+(pdftex.def)             Requested size: 350.99762pt x 135.56664pt.
+Package epstopdf Info: Source file: <2_M5_Map_Partial-01.eps>
+(epstopdf)                    date: 2018-07-17 13:47:42
+(epstopdf)                    size: 21899346 bytes
+(epstopdf)             Output file: <2_M5_Map_Partial-01-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-17 13:49:23
+(epstopdf)                    size: 3200868 bytes
+(epstopdf)             Command: <repstopdf --outfile=2_M5_Map_Partial-01-eps-co
+nverted-to.pdf 2_M5_Map_Partial-01.eps>
+(epstopdf)             \includegraphics on input line 225.
+Package epstopdf Info: Output file is already uptodate.
+<2_M5_Map_Partial-01-eps-converted-to.pdf, id=31, 1905.1175pt x 2039.62pt>
+File: 2_M5_Map_Partial-01-eps-converted-to.pdf Graphic file (type pdf)
+<use 2_M5_Map_Partial-01-eps-converted-to.pdf>
+Package pdftex.def Info: 2_M5_Map_Partial-01-eps-converted-to.pdf  used on inpu
+t line 225.
+(pdftex.def)             Requested size: 234.00238pt x 250.50142pt.
+ [5] [6 <./1_Backscatter-eps-converted-to.pdf>] [7 <./2_M5_Map_Partial-01-eps-c
+onverted-to.pdf>]
+Package epstopdf Info: Source file: <3_CanariesTransects_Chem_BSE-01.eps>
+(epstopdf)                    date: 2018-07-17 13:40:22
+(epstopdf)                    size: 11434890 bytes
+(epstopdf)             Output file: <3_CanariesTransects_Chem_BSE-01-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2018-07-17 13:49:26
+(epstopdf)                    size: 1104321 bytes
+(epstopdf)             Command: <repstopdf --outfile=3_CanariesTransects_Chem_B
+SE-01-eps-converted-to.pdf 3_CanariesTransects_Chem_BSE-01.eps>
+(epstopdf)             \includegraphics on input line 246.
+Package epstopdf Info: Output file is already uptodate.
+<3_CanariesTransects_Chem_BSE-01-eps-converted-to.pdf, id=75, 620.3175pt x 551.
+05875pt>
+File: 3_CanariesTransects_Chem_BSE-01-eps-converted-to.pdf Graphic file (type p
+df)
+<use 3_CanariesTransects_Chem_BSE-01-eps-converted-to.pdf>
+Package pdftex.def Info: 3_CanariesTransects_Chem_BSE-01-eps-converted-to.pdf  
+used on input line 246.
+(pdftex.def)             Requested size: 312.00119pt x 277.15993pt.
+
+[8] [9 <./3_CanariesTransects_Chem_BSE-01-eps-converted-to.pdf>] [10] [11]
+Overfull \hbox (0.18762pt too wide) in paragraph at lines 279--280
+[]\OT1/cmr/m/n/12 Primary and sec-ondary stan-dards and an un-zoned Ca-nary Is-
+lands clinopy-
+ []
+
+[12] [13] [14]
+Package epstopdf Info: Source file: <4_Px_F-free_Sept2017.eps>
+(epstopdf)                    date: 2018-07-17 09:58:36
+(epstopdf)                    size: 5475218 bytes
+(epstopdf)             Output file: <4_Px_F-free_Sept2017-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2018-07-17 11:07:56
+(epstopdf)                    size: 756708 bytes
+(epstopdf)             Command: <repstopdf --outfile=4_Px_F-free_Sept2017-eps-c
+onverted-to.pdf 4_Px_F-free_Sept2017.eps>
+(epstopdf)             \includegraphics on input line 314.
+Package epstopdf Info: Output file is already uptodate.
+<4_Px_F-free_Sept2017-eps-converted-to.pdf, id=114, 947.54pt x 665.48625pt>
+File: 4_Px_F-free_Sept2017-eps-converted-to.pdf Graphic file (type pdf)
+<use 4_Px_F-free_Sept2017-eps-converted-to.pdf>
+Package pdftex.def Info: 4_Px_F-free_Sept2017-eps-converted-to.pdf  used on inp
+ut line 314.
+(pdftex.def)             Requested size: 331.50238pt x 232.82213pt.
+ [15] [16 <./4_Px_F-free_Sept2017-eps-converted-to.pdf>] [17]
+[18]
+Package epstopdf Info: Source file: <5_ExchangeMechBar_REVIEW-02.eps>
+(epstopdf)                    date: 2018-07-17 11:18:47
+(epstopdf)                    size: 656438 bytes
+(epstopdf)             Output file: <5_ExchangeMechBar_REVIEW-02-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2018-07-17 11:19:04
+(epstopdf)                    size: 37190 bytes
+(epstopdf)             Command: <repstopdf --outfile=5_ExchangeMechBar_REVIEW-0
+2-eps-converted-to.pdf 5_ExchangeMechBar_REVIEW-02.eps>
+(epstopdf)             \includegraphics on input line 370.
+Package epstopdf Info: Output file is already uptodate.
+<5_ExchangeMechBar_REVIEW-02-eps-converted-to.pdf, id=156, 507.8975pt x 244.915
+pt>
+File: 5_ExchangeMechBar_REVIEW-02-eps-converted-to.pdf Graphic file (type pdf)
+<use 5_ExchangeMechBar_REVIEW-02-eps-converted-to.pdf>
+Package pdftex.def Info: 5_ExchangeMechBar_REVIEW-02-eps-converted-to.pdf  used
+ on input line 370.
+(pdftex.def)             Requested size: 390.0pt x 188.0694pt.
+ [19 <./5_ExchangeMechBar_REVIEW-02-eps-converted-to.pdf>]
+Overfull \hbox (2.18481pt too wide) in paragraph at lines 389--392
+\OT1/cmr/m/n/12 sector-zoning and con-cen-tric growth-zoning pat-terns, as reco
+rded by backscat-
+ []
+
+[20] [21] [22]
+Overfull \hbox (3.22925pt too wide) in paragraph at lines 415--417
+\OT1/cmr/m/n/12 diffusion-coefficients are 6 or-ders of mag-ni-tude higher than
+ for water-saturated
+ []
+
+[23]
+Overfull \hbox (1.50359pt too wide) in paragraph at lines 433--433
+[]\OT1/cmr/m/it/12 Chemical zona-tion in the ex-per-i-ment clinopy-rox-ene: The
+-o-ret-i-cal frame-
+ []
+
+[24]
+Overfull \hbox (26.55191pt too wide) in paragraph at lines 437--438
+\OT1/cmr/m/n/12 pled dur-ing \OT1/cmr/m/it/12 in-situ \OT1/cmr/m/n/12 anal-y-se
+s all experimentally-determined trace-element partition-
+ []
+
+[25] [26] [27]
+Package epstopdf Info: Source file: <6_Px_D_Spider_Apr2018.eps>
+(epstopdf)                    date: 2018-07-17 09:59:27
+(epstopdf)                    size: 980650 bytes
+(epstopdf)             Output file: <6_Px_D_Spider_Apr2018-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2018-07-17 11:08:05
+(epstopdf)                    size: 63039 bytes
+(epstopdf)             Command: <repstopdf --outfile=6_Px_D_Spider_Apr2018-eps-
+converted-to.pdf 6_Px_D_Spider_Apr2018.eps>
+(epstopdf)             \includegraphics on input line 462.
+Package epstopdf Info: Output file is already uptodate.
+<6_Px_D_Spider_Apr2018-eps-converted-to.pdf, id=197, 571.13374pt x 312.16624pt>
+
+File: 6_Px_D_Spider_Apr2018-eps-converted-to.pdf Graphic file (type pdf)
+<use 6_Px_D_Spider_Apr2018-eps-converted-to.pdf>
+Package pdftex.def Info: 6_Px_D_Spider_Apr2018-eps-converted-to.pdf  used on in
+put line 462.
+(pdftex.def)             Requested size: 292.5pt x 159.8743pt.
+ [28 <./6_Px_D_Spider_Apr2018-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <7_D_Al_iv_Literature_Jun2017-01.eps>
+(epstopdf)                    date: 2018-07-17 10:50:55
+(epstopdf)                    size: 9638266 bytes
+(epstopdf)             Output file: <7_D_Al_iv_Literature_Jun2017-01-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2018-07-17 11:08:10
+(epstopdf)                    size: 959289 bytes
+(epstopdf)             Command: <repstopdf --outfile=7_D_Al_iv_Literature_Jun20
+17-01-eps-converted-to.pdf 7_D_Al_iv_Literature_Jun2017-01.eps>
+(epstopdf)             \includegraphics on input line 485.
+Package epstopdf Info: Output file is already uptodate.
+<7_D_Al_iv_Literature_Jun2017-01-eps-converted-to.pdf, id=213, 1014.79124pt x 1
+851.91875pt>
+File: 7_D_Al_iv_Literature_Jun2017-01-eps-converted-to.pdf Graphic file (type p
+df)
+<use 7_D_Al_iv_Literature_Jun2017-01-eps-converted-to.pdf>
+Package pdftex.def Info: 7_D_Al_iv_Literature_Jun2017-01-eps-converted-to.pdf  
+used on input line 485.
+(pdftex.def)             Requested size: 265.19714pt x 483.94597pt.
+
+
+LaTeX Warning: Float too large for page by 33.2003pt on input line 489.
+
+[29] [30 <./7_D_Al_iv_Literature_Jun2017-01-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <8_Latticestrain-01.eps>
+(epstopdf)                    date: 2018-07-17 10:45:21
+(epstopdf)                    size: 3016974 bytes
+(epstopdf)             Output file: <8_Latticestrain-01-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-17 11:08:14
+(epstopdf)                    size: 391591 bytes
+(epstopdf)             Command: <repstopdf --outfile=8_Latticestrain-01-eps-con
+verted-to.pdf 8_Latticestrain-01.eps>
+(epstopdf)             \includegraphics on input line 505.
+Package epstopdf Info: Output file is already uptodate.
+<8_Latticestrain-01-eps-converted-to.pdf, id=261, 865.2325pt x 426.59375pt>
+File: 8_Latticestrain-01-eps-converted-to.pdf Graphic file (type pdf)
+<use 8_Latticestrain-01-eps-converted-to.pdf>
+Package pdftex.def Info: 8_Latticestrain-01-eps-converted-to.pdf  used on input
+ line 505.
+(pdftex.def)             Requested size: 390.0pt x 192.28436pt.
+
+Overfull \hbox (1.85843pt too wide) in paragraph at lines 512--513
+[]\OT1/cmr/m/n/12 The equi-lib-rium par-ti-tion-ing of trace-elements be-tween 
+min-er-als and melts
+ []
+
+[31] [32 <./8_Latticestrain-01-eps-converted-to.pdf>] [33]
+Package epstopdf Info: Source file: <9_Px_XRD_Jun2017-01.eps>
+(epstopdf)                    date: 2018-07-17 10:46:27
+(epstopdf)                    size: 1391746 bytes
+(epstopdf)             Output file: <9_Px_XRD_Jun2017-01-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-17 11:08:17
+(epstopdf)                    size: 128714 bytes
+(epstopdf)             Command: <repstopdf --outfile=9_Px_XRD_Jun2017-01-eps-co
+nverted-to.pdf 9_Px_XRD_Jun2017-01.eps>
+(epstopdf)             \includegraphics on input line 544.
+Package epstopdf Info: Output file is already uptodate.
+<9_Px_XRD_Jun2017-01-eps-converted-to.pdf, id=293, 511.9125pt x 495.8525pt>
+File: 9_Px_XRD_Jun2017-01-eps-converted-to.pdf Graphic file (type pdf)
+<use 9_Px_XRD_Jun2017-01-eps-converted-to.pdf>
+Package pdftex.def Info: 9_Px_XRD_Jun2017-01-eps-converted-to.pdf  used on inpu
+t line 544.
+(pdftex.def)             Requested size: 195.0pt x 188.87987pt.
+ [34]
+Package epstopdf Info: Source file: <10_LST_Aliv_mech-01.eps>
+(epstopdf)                    date: 2018-07-17 10:47:09
+(epstopdf)                    size: 4878838 bytes
+(epstopdf)             Output file: <10_LST_Aliv_mech-01-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-17 11:08:20
+(epstopdf)                    size: 309494 bytes
+(epstopdf)             Command: <repstopdf --outfile=10_LST_Aliv_mech-01-eps-co
+nverted-to.pdf 10_LST_Aliv_mech-01.eps>
+(epstopdf)             \includegraphics on input line 560.
+Package epstopdf Info: Output file is already uptodate.
+<10_LST_Aliv_mech-01-eps-converted-to.pdf, id=298, 1019.81pt x 1475.5125pt>
+File: 10_LST_Aliv_mech-01-eps-converted-to.pdf Graphic file (type pdf)
+<use 10_LST_Aliv_mech-01-eps-converted-to.pdf>
+Package pdftex.def Info: 10_LST_Aliv_mech-01-eps-converted-to.pdf  used on inpu
+t line 560.
+(pdftex.def)             Requested size: 253.49762pt x 366.76086pt.
+ [35 <./9_Px_XRD_Jun2017-01-eps-converted-to.pdf>] [36 <./10_LST_Aliv_mech-01-e
+ps-converted-to.pdf>]
+Overfull \hbox (3.62091pt too wide) in paragraph at lines 573--574
+\OT1/cmr/m/n/12 charged trace-elements has been ex-ten-sively doc-u-mented in s
+tud-ies on clinopy-
+ []
+
+[37]
+Package epstopdf Info: Source file: <11_NBO-T_Traces.eps>
+(epstopdf)                    date: 2018-07-17 09:56:40
+(epstopdf)                    size: 3748702 bytes
+(epstopdf)             Output file: <11_NBO-T_Traces-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-17 11:08:23
+(epstopdf)                    size: 56792 bytes
+(epstopdf)             Command: <repstopdf --outfile=11_NBO-T_Traces-eps-conver
+ted-to.pdf 11_NBO-T_Traces.eps>
+(epstopdf)             \includegraphics on input line 591.
+Package epstopdf Info: Output file is already uptodate.
+<11_NBO-T_Traces-eps-converted-to.pdf, id=353, 1034.86626pt x 1465.475pt>
+File: 11_NBO-T_Traces-eps-converted-to.pdf Graphic file (type pdf)
+<use 11_NBO-T_Traces-eps-converted-to.pdf>
+Package pdftex.def Info: 11_NBO-T_Traces-eps-converted-to.pdf  used on input li
+ne 591.
+(pdftex.def)             Requested size: 312.00119pt x 441.81494pt.
+
+
+LaTeX Warning: Float too large for page by 44.81494pt on input line 595.
+
+[38] [39 <./11_NBO-T_Traces-eps-converted-to.pdf>] [40] [41]
+Overfull \hbox (7.66809pt too wide) in paragraph at lines 645--646
+[]\OT1/cmr/m/n/12 To find the prin-ci-pal phys-io-chem-i-cal fac-tors that af-f
+ect element-partitioning
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 651--652
+
+ []
+
+[43]
+Package epstopdf Info: Source file: <12_StepwiseMultilinear_M1M2_24Oct2017.eps>
+
+(epstopdf)                    date: 2018-07-17 09:56:49
+(epstopdf)                    size: 3960498 bytes
+(epstopdf)             Output file: <12_StepwiseMultilinear_M1M2_24Oct2017-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2018-07-17 11:08:26
+(epstopdf)                    size: 261626 bytes
+(epstopdf)             Command: <repstopdf --outfile=12_StepwiseMultilinear_M1M
+2_24Oct2017-eps-converted-to.pdf 12_StepwiseMultilinear_M1M2_24Oct2017.eps>
+(epstopdf)             \includegraphics on input line 678.
+Package epstopdf Info: Output file is already uptodate.
+<12_StepwiseMultilinear_M1M2_24Oct2017-eps-converted-to.pdf, id=387, 1362.08875
+pt x 815.045pt>
+File: 12_StepwiseMultilinear_M1M2_24Oct2017-eps-converted-to.pdf Graphic file (
+type pdf)
+<use 12_StepwiseMultilinear_M1M2_24Oct2017-eps-converted-to.pdf>
+Package pdftex.def Info: 12_StepwiseMultilinear_M1M2_24Oct2017-eps-converted-to
+.pdf  used on input line 678.
+(pdftex.def)             Requested size: 548.5pt x 328.21349pt.
+ [44] [45 <./12_StepwiseMultilinear_M1M2_24Oct2017-eps-converted-to.pdf>]
+[46]
+Package epstopdf Info: Source file: <13_13thOct_VvHmodel_M1M2-02.eps>
+(epstopdf)                    date: 2018-07-17 10:48:33
+(epstopdf)                    size: 9593358 bytes
+(epstopdf)             Output file: <13_13thOct_VvHmodel_M1M2-02-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2018-07-17 11:08:29
+(epstopdf)                    size: 906394 bytes
+(epstopdf)             Command: <repstopdf --outfile=13_13thOct_VvHmodel_M1M2-0
+2-eps-converted-to.pdf 13_13thOct_VvHmodel_M1M2-02.eps>
+(epstopdf)             \includegraphics on input line 703.
+Package epstopdf Info: Output file is already uptodate.
+<13_13thOct_VvHmodel_M1M2-02-eps-converted-to.pdf, id=417, 1041.8925pt x 1502.6
+1375pt>
+File: 13_13thOct_VvHmodel_M1M2-02-eps-converted-to.pdf Graphic file (type pdf)
+<use 13_13thOct_VvHmodel_M1M2-02-eps-converted-to.pdf>
+Package pdftex.def Info: 13_13thOct_VvHmodel_M1M2-02-eps-converted-to.pdf  used
+ on input line 703.
+(pdftex.def)             Requested size: 265.19714pt x 382.46213pt.
+
+
+LaTeX Warning: Float too large for page by 129.46213pt on input line 710.
+
+[47] [48 <./13_13thOct_VvHmodel_M1M2-02-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <14_SpiderDTest.eps>
+(epstopdf)                    date: 2018-07-17 09:57:15
+(epstopdf)                    size: 1307774 bytes
+(epstopdf)             Output file: <14_SpiderDTest-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-17 11:08:32
+(epstopdf)                    size: 78001 bytes
+(epstopdf)             Command: <repstopdf --outfile=14_SpiderDTest-eps-convert
+ed-to.pdf 14_SpiderDTest.eps>
+(epstopdf)             \includegraphics on input line 742.
+Package epstopdf Info: Output file is already uptodate.
+<14_SpiderDTest-eps-converted-to.pdf, id=457, 504.88625pt x 467.7475pt>
+File: 14_SpiderDTest-eps-converted-to.pdf Graphic file (type pdf)
+<use 14_SpiderDTest-eps-converted-to.pdf>
+Package pdftex.def Info: 14_SpiderDTest-eps-converted-to.pdf  used on input lin
+e 742.
+(pdftex.def)             Requested size: 195.0pt x 180.65788pt.
+ [49] [50 <./14_SpiderDTest-eps-converted-to.pdf>] [51] [52]
+Package epstopdf Info: Source file: <15_FractCryst_Giehl_NoContours.eps>
+(epstopdf)                    date: 2018-07-17 09:57:26
+(epstopdf)                    size: 1507610 bytes
+(epstopdf)             Output file: <15_FractCryst_Giehl_NoContours-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-07-17 11:08:35
+(epstopdf)                    size: 161061 bytes
+(epstopdf)             Command: <repstopdf --outfile=15_FractCryst_Giehl_NoCont
+ours-eps-converted-to.pdf 15_FractCryst_Giehl_NoContours.eps>
+(epstopdf)             \includegraphics on input line 776.
+Package epstopdf Info: Output file is already uptodate.
+<15_FractCryst_Giehl_NoContours-eps-converted-to.pdf, id=481, 513.92pt x 507.89
+75pt>
+File: 15_FractCryst_Giehl_NoContours-eps-converted-to.pdf Graphic file (type pd
+f)
+<use 15_FractCryst_Giehl_NoContours-eps-converted-to.pdf>
+Package pdftex.def Info: 15_FractCryst_Giehl_NoContours-eps-converted-to.pdf  u
+sed on input line 776.
+(pdftex.def)             Requested size: 195.0pt x 192.71631pt.
+ [53 <./15_FractCryst_Giehl_NoContours-eps-converted-to.pdf>] [54]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 811.
+
+
+(c:/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 811.
+ [55]
+Overfull \hbox (1.29189pt too wide) in paragraph at lines 817--818
+\OT1/cmr/m/n/12 Much like in sys-tems of lower al-ka-lin-ity, REE in-cor-po-ra-
+tion into clinopy-
+ []
+
+
+Overfull \hbox (2.8987pt too wide) in paragraph at lines 824--825
+[]\OT1/cmr/m/n/12 Crystallisation of abun-dant Ca-Mg rich clinopy-rox-ene de-pl
+etes the resid-
+ []
+
+[56] (./Aeg_v15_fromOverleaf.bbl
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+ [57]
+Underfull \hbox (badness 1077) in paragraph at lines 46--54
+[]\OT1/cmr/m/n/12 Akasaka, M., On-uma, K., 1980.  The join CaMgSi2O6-CaFeAlSiO6
+-
+ []
+
+[58] [59] [60] [61] [62] [63]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+
+Underfull \hbox (badness 1931) in paragraph at lines 456--466
+[]\OT1/cmr/m/n/12 Hanchar, J.M., Finch, R.J., Hoskin, P.W.O., Wat-son, E.B., Ch
+er-
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 456--466
+\OT1/cmr/m/n/12 zir-con: Part 1. Syn-the-sis, and rare earth el-e-ment and phos
+-pho-
+ []
+
+[64] [65]
+Underfull \hbox (badness 2837) in paragraph at lines 549--556
+[]\OT1/cmr/m/n/12 Kumazawa, M., 1969.  The elas-tic con-stants of single-crysta
+l or-
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 549--556
+\OT1/cmr/m/n/12 thopy-rox-ene.  Jour-nal of Geo-phys-i-cal Re-search 74, 5973--
+5980.
+ []
+
+[66] [67]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+
+Underfull \hbox (badness 1057) in paragraph at lines 691--700
+[]\OT1/cmr/m/n/12 M^^?oller, V., Williams-Jones, A.E., 2016.  Pet-ro-ge-n-e-sis
+ of the Necha-
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 691--700
+\OT1/cmr/m/n/12 la-cho Lay-ered Suite, Canada: mag-matic evo-lu-tion of a REE-N
+b-
+ []
+
+[68]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ [69] [70]
+Underfull \hbox (badness 2717) in paragraph at lines 843--849
+[]\OT1/cmr/m/n/12 Putirka, K.D., 2008.  Ther-mome-ters and Barom-e-ters for Vol
+-canic
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 843--849
+\OT1/cmr/m/n/12 Sys-tems.  Re-views in Min-er-al-ogy and Geo-chem-istry 69, 61-
+-120.
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 867--878
+[]\OT1/cmr/m/n/12 Redhammer, G.J., Amthauer, G., Roth, G., Tip-pelt, G., Lot-te
+r-
+ []
+
+[71]
+Underfull \hbox (badness 3291) in paragraph at lines 892--901
+[]\OT1/cmr/m/n/12 Rubatto, D., Her-mann, J., 2007.  Ex-per-i-men-tal zir-con/me
+lt and
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 892--901
+\OT1/cmr/m/n/12 zir-con/garnet trace el-e-ment par-ti-tion-ing and im-pli-ca-ti
+ons for the
+ []
+
+
+Underfull \hbox (badness 3679) in paragraph at lines 892--901
+\OT1/cmr/m/n/12 geochronol-ogy of crustal rocks.  Chem-i-cal Ge-ol-ogy 241, 38-
+-61.
+ []
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 953--961
+\OT1/cmr/m/n/12 induced crys-tal-liza-tion in hy-drous mafic-intermediate mag-m
+as.
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 953--961
+\OT1/cmr/m/n/12 Jour-nal of Vol-canol-ogy and Geother-mal Re-search 260, 127--1
+45.
+ []
+
+[73] [74]
+Underfull \hbox (badness 2884) in paragraph at lines 1086--1094
+\OT1/cmr/m/n/12 el-e-ment par-ti-tion-ing be-tween clinopy-rox-ene and an-hy-dr
+ous sil-i-cate
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 1086--1094
+\OT1/cmr/m/n/12 melt.  Con-tri-bu-tions to Min-er-al-ogy and Petrol-ogy 129, 16
+6--181.
+ []
+
+[75] [76]) [77]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 988.
+
+[78
+
+
+] [79] [80] [81] [82]
+<S1_TAS_Expglasses_Nov2017.pdf, id=594, 774.895pt x 555.07375pt>
+File: S1_TAS_Expglasses_Nov2017.pdf Graphic file (type pdf)
+<use S1_TAS_Expglasses_Nov2017.pdf>
+Package pdftex.def Info: S1_TAS_Expglasses_Nov2017.pdf  used on input line 1055
+.
+(pdftex.def)             Requested size: 312.00119pt x 223.49081pt.
+<S2_Nov2016_maps_2-11-2016.pdf, id=595, 6040.9488pt x 4070.03569pt>
+File: S2_Nov2016_maps_2-11-2016.pdf Graphic file (type pdf)
+<use S2_Nov2016_maps_2-11-2016.pdf>
+Package pdftex.def Info: S2_Nov2016_maps_2-11-2016.pdf  used on input line 1069
+.
+(pdftex.def)             Requested size: 493.64665pt x 332.56512pt.
+Package epstopdf Info: Source file: <S3_ExchMech_Feb2017-02.eps>
+(epstopdf)                    date: 2018-07-17 10:00:18
+(epstopdf)                    size: 2961006 bytes
+(epstopdf)             Output file: <S3_ExchMech_Feb2017-02-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2018-07-17 11:08:39
+(epstopdf)                    size: 150442 bytes
+(epstopdf)             Command: <repstopdf --outfile=S3_ExchMech_Feb2017-02-eps
+-converted-to.pdf S3_ExchMech_Feb2017-02.eps>
+(epstopdf)             \includegraphics on input line 1086.
+Package epstopdf Info: Output file is already uptodate.
+<S3_ExchMech_Feb2017-02-eps-converted-to.pdf, id=596, 962.59625pt x 990.70125pt
+>
+File: S3_ExchMech_Feb2017-02-eps-converted-to.pdf Graphic file (type pdf)
+<use S3_ExchMech_Feb2017-02-eps-converted-to.pdf>
+Package pdftex.def Info: S3_ExchMech_Feb2017-02-eps-converted-to.pdf  used on i
+nput line 1086.
+(pdftex.def)             Requested size: 146.64093pt x 150.91165pt.
+
+Underfull \hbox (badness 1057) in paragraph at lines 1089--1089
+\OT1/cmr/m/n/10 a-nisms for (a) high, (b) medium and
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 1089--1089
+\OT1/cmr/m/n/10 signed to 2+ or 3+ va-lence fol-low-ing
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 1089--1089
+\OT1/cmr/m/n/10 were as-signed to sites fol-low-ing Mo-ri-
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1096.
+
+Package epstopdf Info: Source file: <S4_QAQC_LaserMix_H5_2.eps>
+(epstopdf)                    date: 2018-07-17 10:00:26
+(epstopdf)                    size: 2235214 bytes
+(epstopdf)             Output file: <S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2018-07-17 11:08:41
+(epstopdf)                    size: 69866 bytes
+(epstopdf)             Command: <repstopdf --outfile=S4_QAQC_LaserMix_H5_2-eps-
+converted-to.pdf S4_QAQC_LaserMix_H5_2.eps>
+(epstopdf)             \includegraphics on input line 1098.
+Package epstopdf Info: Output file is already uptodate.
+<S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf, id=597, 898.35625pt x 806.01125pt>
+
+File: S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf Graphic file (type pdf)
+<use S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf>
+Package pdftex.def Info: S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf  used on in
+put line 1098.
+(pdftex.def)             Requested size: 253.49762pt x 227.44032pt.
+
+LaTeX Warning: Float too large for page by 117.88477pt on input line 1104.
+
+Package epstopdf Info: Source file: <S5_D_XNaM2.eps>
+(epstopdf)                    date: 2018-07-17 10:51:09
+(epstopdf)                    size: 8739134 bytes
+(epstopdf)             Output file: <S5_D_XNaM2-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-17 11:08:45
+(epstopdf)                    size: 760631 bytes
+(epstopdf)             Command: <repstopdf --outfile=S5_D_XNaM2-eps-converted-t
+o.pdf S5_D_XNaM2.eps>
+(epstopdf)             \includegraphics on input line 1108.
+Package epstopdf Info: Output file is already uptodate.
+<S5_D_XNaM2-eps-converted-to.pdf, id=598, 1014.79124pt x 1848.9075pt>
+File: S5_D_XNaM2-eps-converted-to.pdf Graphic file (type pdf)
+<use S5_D_XNaM2-eps-converted-to.pdf>
+Package pdftex.def Info: S5_D_XNaM2-eps-converted-to.pdf  used on input line 11
+08.
+(pdftex.def)             Requested size: 272.99881pt x 497.37791pt.
+
+LaTeX Warning: Float too large for page by 28.37791pt on input line 1112.
+
+[83
+
+ <./S1_TAS_Expglasses_Nov2017.pdf>] [84 <./S2_Nov2016_maps_2-11-2016.pdf>]
+[85 <./S3_ExchMech_Feb2017-02-eps-converted-to.pdf>] [86 <./S4_QAQC_LaserMix_H5
+_2-eps-converted-to.pdf>] [87 <./S5_D_XNaM2-eps-converted-to.pdf>] [88
+
+]
+AED endfloat: Processing end Figures and Tables [89]
+(./Aeg_v15_fromOverleaf.aux) ) 
+Here is how much of TeX's memory you used:
+ 16269 strings out of 492980
+ 326249 string characters out of 6136208
+ 445625 words of memory out of 5000000
+ 19616 multiletter control sequences out of 15000+600000
+ 545151 words of font info for 79 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,18n,57p,10384b,829s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2017/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.p
+fb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/201
+7/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2017/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2017/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr17.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.p
+fb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2017/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2017/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmti10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.p
+fb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb><c:/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb><c:/texlive/2017/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Aeg_v15_fromOverleaf.pdf (89 pages, 18094048 bytes).
+PDF statistics:
+ 956 PDF objects out of 1000 (max. 8388607)
+ 535 compressed objects within 6 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+

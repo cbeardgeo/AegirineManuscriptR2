@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Waypoints_CANARIES2015_Beard.kml</name>
+	<Style id="style_3920">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/cross_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_11347">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_1035">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_7517">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/cross_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_3090">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_3832">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_5053">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_11305">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_7191">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_2296">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_3446">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_4643">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_11058">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_6980">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_1072">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_5127">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_3091">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_3899">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_10529">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_666">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_6487">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_2608">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_3484">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_675">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_4677">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_9972">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_5192">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_6125">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_1427">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_3214">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_3918">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_9737">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_2641">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_5247">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_706">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_3502">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_9710">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_693">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_4884">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_1527">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_3354">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_9664">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_3919">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_5783">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_5441">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_748">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_2860">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_9486">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_3730">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_4885">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/cross_red.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_5646">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_9460">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style_3412">
+		<IconStyle>
+			<Icon>
+				<href>http://www.mapfinity.com/static/icons/pin_green.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="pixels" yunits="pixels" xUnits="fraction" yUnits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Waypoints_CANARIES2015_Beard</name>
+		<open>1</open>
+		<Placemark>
+			<name>Edgar Sect 3</name>
+			<TimeStamp><when>2015-04-15T08:49:57.453Z</when>
+</TimeStamp>
+			<styleUrl>#style_666</styleUrl>
+			<Point>
+				<coordinates>-16.570704,28.032524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Edgar Sect 14</name>
+			<TimeStamp><when>2015-04-15T08:52:07.379Z</when>
+</TimeStamp>
+			<styleUrl>#style_675</styleUrl>
+			<Point>
+				<coordinates>-16.5498,28.276443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Edgar Sect 17</name>
+			<TimeStamp><when>2015-04-15T08:53:17.838Z</when>
+</TimeStamp>
+			<styleUrl>#style_693</styleUrl>
+			<Point>
+				<coordinates>-16.397549,28.327726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Edgar Sect 13</name>
+			<TimeStamp><when>2015-04-15T09:06:19.615Z</when>
+</TimeStamp>
+			<styleUrl>#style_706</styleUrl>
+			<Point>
+				<coordinates>-16.456738,28.179993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grendilia Section. Falls Overlay Flow</name>
+			<TimeStamp><when>2015-04-15T10:34:21Z</when>
+</TimeStamp>
+			<styleUrl>#style_748</styleUrl>
+			<Point>
+				<coordinates>-16.548185,28.129961,510.9999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mixed Pumice 1.</name>
+			<TimeStamp><when>2015-04-15T12:09:10Z</when>
+</TimeStamp>
+			<styleUrl>#style_1035</styleUrl>
+			<Point>
+				<coordinates>-16.571182,28.03457,4.999999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB15 01, 02</name>
+			<TimeStamp><when>2015-04-15T12:31:26Z</when>
+</TimeStamp>
+			<styleUrl>#style_1072</styleUrl>
+			<Point>
+				<coordinates>-16.571186,28.034481,9.999999999999998</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bryan Fug 3</name>
+			<TimeStamp><when>2015-04-15T14:49:12Z</when>
+</TimeStamp>
+			<styleUrl>#style_1427</styleUrl>
+			<Point>
+				<coordinates>-16.541643,28.095219,302</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15cb15 02. Granadilla Fall Deposits. Bryan Et Al. 2000</name>
+			<TimeStamp><when>2015-04-15T15:25:59Z</when>
+</TimeStamp>
+			<styleUrl>#style_1527</styleUrl>
+			<Point>
+				<coordinates>-16.543455,28.095844,259</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB16-04. Taf</name>
+			<TimeStamp><when>2015-04-16T11:12:40Z</when>
+</TimeStamp>
+			<styleUrl>#style_2296</styleUrl>
+			<Point>
+				<coordinates>-16.613953,28.278074,2580</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB16-05</name>
+			<TimeStamp><when>2015-04-16T13:36:45Z</when>
+</TimeStamp>
+			<styleUrl>#style_2608</styleUrl>
+			<Point>
+				<coordinates>-16.616556,28.267149,2700</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB16 - 06 Lavas Negras, Teide</name>
+			<TimeStamp><when>2015-04-16T13:56:45Z</when>
+</TimeStamp>
+			<styleUrl>#style_2641</styleUrl>
+			<Point>
+				<coordinates>-16.61707,28.267757,2716</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB16-07</name>
+			<description><![CDATA[<p>Montana Blanca LMB</p>]]></description>
+			<TimeStamp><when>2015-04-16T16:31:46Z</when>
+</TimeStamp>
+			<styleUrl>#style_2860</styleUrl>
+			<Point>
+				<coordinates>-16.610552,28.282244,2399</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Reventada Road Cut. Weismaier 2011</name>
+			<TimeStamp><when>2015-04-16T21:53:48.955Z</when>
+</TimeStamp>
+			<styleUrl>#style_3090</styleUrl>
+			<Point>
+				<coordinates>-16.728788,28.27287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Turn Off For Reventada Flow Front</name>
+			<TimeStamp><when>2015-04-16T22:04:22.623Z</when>
+</TimeStamp>
+			<styleUrl>#style_3091</styleUrl>
+			<Point>
+				<coordinates>-16.744778,28.26759699999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB17-08 Reventada Phon</name>
+			<TimeStamp><when>2015-04-17T11:19:37Z</when>
+</TimeStamp>
+			<styleUrl>#style_3214</styleUrl>
+			<Point>
+				<coordinates>-16.72887,28.272728,1808</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB17-09 Toe Of Reventada</name>
+			<TimeStamp><when>2015-04-17T12:19:30Z</when>
+</TimeStamp>
+			<styleUrl>#style_3354</styleUrl>
+			<Point>
+				<coordinates>-16.743355,28.272621,1656</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB17-10</name>
+			<TimeStamp><when>2015-04-17T13:08:47Z</when>
+</TimeStamp>
+			<styleUrl>#style_3412</styleUrl>
+			<Point>
+				<coordinates>-16.745329,28.270502,1649</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB17-11 SAMARA LAVA</name>
+			<TimeStamp><when>2015-04-17T13:24:57Z</when>
+</TimeStamp>
+			<styleUrl>#style_3446</styleUrl>
+			<Point>
+				<coordinates>-16.744196,28.267199,1627</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB17-12. SAMARA msma</name>
+			<TimeStamp><when>2015-04-17T13:42:36Z</when>
+</TimeStamp>
+			<styleUrl>#style_3484</styleUrl>
+			<Point>
+				<coordinates>-16.725376,28.267021,1888</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB17-13 SAMARA msmp</name>
+			<TimeStamp><when>2015-04-17T13:56:56Z</when>
+</TimeStamp>
+			<styleUrl>#style_3502</styleUrl>
+			<Point>
+				<coordinates>-16.729923,28.270094,1826</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB17-14. Montaña Blanca II</name>
+			<TimeStamp><when>2015-04-17T15:14:54Z</when>
+</TimeStamp>
+			<styleUrl>#style_3730</styleUrl>
+			<Point>
+				<coordinates>-16.564863,28.302324,2061</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB17-15 Arenas Blancas</name>
+			<TimeStamp><when>2015-04-17T16:06:00Z</when>
+</TimeStamp>
+			<styleUrl>#style_3832</styleUrl>
+			<Point>
+				<coordinates>-16.588234,28.263916,2302</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB17-16 ET</name>
+			<TimeStamp><when>2015-04-17T16:40:52Z</when>
+</TimeStamp>
+			<styleUrl>#style_3899</styleUrl>
+			<Point>
+				<coordinates>-16.60418,28.258768,2341</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hoyo Negro</name>
+			<TimeStamp><when>2015-04-18T09:45:21.401Z</when>
+</TimeStamp>
+			<styleUrl>#style_3918</styleUrl>
+			<Point>
+				<coordinates>-17.8308,28.58201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Barquita</name>
+			<TimeStamp><when>2015-04-18T09:46:05.35Z</when>
+</TimeStamp>
+			<styleUrl>#style_3919</styleUrl>
+			<Point>
+				<coordinates>-17.84046,28.599024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Road turn for Hoyo Negro</name>
+			<TimeStamp><when>2015-04-18T09:46:34.663Z</when>
+</TimeStamp>
+			<styleUrl>#style_3920</styleUrl>
+			<Point>
+				<coordinates>-17.821434,28.592014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB18-17 Seamount Phonolite</name>
+			<TimeStamp><when>2015-04-18T17:08:53Z</when>
+</TimeStamp>
+			<styleUrl>#style_4643</styleUrl>
+			<Point>
+				<coordinates>-17.906569,28.709637,1084</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB18-18 Seamount 2</name>
+			<TimeStamp><when>2015-04-18T17:23:31Z</when>
+</TimeStamp>
+			<styleUrl>#style_4677</styleUrl>
+			<Point>
+				<coordinates>-17.905361,28.707468,1029</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bejenado Phonolite</name>
+			<TimeStamp><when>2015-04-18T21:23:18.937Z</when>
+</TimeStamp>
+			<styleUrl>#style_4884</styleUrl>
+			<Point>
+				<coordinates>-17.871834,28.669338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible Trailhead? Road Marked On Geological Map</name>
+			<TimeStamp><when>2015-04-18T21:24:47.969Z</when>
+</TimeStamp>
+			<styleUrl>#style_4885</styleUrl>
+			<Point>
+				<coordinates>-17.86823,28.65824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB19-19 LAVA</name>
+			<TimeStamp><when>2015-04-19T08:34:26Z</when>
+</TimeStamp>
+			<styleUrl>#style_5053</styleUrl>
+			<Point>
+				<coordinates>-17.868153,28.663176,850</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB19-20 Bejenado</name>
+			<TimeStamp><when>2015-04-19T09:05:44Z</when>
+</TimeStamp>
+			<styleUrl>#style_5127</styleUrl>
+			<Point>
+				<coordinates>-17.870716,28.668722,973.9999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB19-21 Bejenado. Green Bomb</name>
+			<TimeStamp><when>2015-04-19T09:39:20Z</when>
+</TimeStamp>
+			<styleUrl>#style_5192</styleUrl>
+			<Point>
+				<coordinates>-17.873299,28.669598,1054</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB19-22 Bejenado Lava II</name>
+			<TimeStamp><when>2015-04-19T10:05:04Z</when>
+</TimeStamp>
+			<styleUrl>#style_5247</styleUrl>
+			<Point>
+				<coordinates>-17.873648,28.665565,897.9999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15Cb19-23</name>
+			<TimeStamp><when>2015-04-19T11:10:33Z</when>
+</TimeStamp>
+			<styleUrl>#style_5441</styleUrl>
+			<Point>
+				<coordinates>-17.842022,28.620008,1283</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB19-24 Hoyo Negro Alkaline Lava</name>
+			<TimeStamp><when>2015-04-19T12:25:20Z</when>
+</TimeStamp>
+			<styleUrl>#style_5646</styleUrl>
+			<Point>
+				<coordinates>-17.81419,28.582407,1322</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB19-25 Hoyo Negro Basalt</name>
+			<TimeStamp><when>2015-04-19T13:10:22Z</when>
+</TimeStamp>
+			<styleUrl>#style_5783</styleUrl>
+			<Point>
+				<coordinates>-17.815447,28.57889,1310</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB19-26</name>
+			<TimeStamp><when>2015-04-19T15:02:56Z</when>
+</TimeStamp>
+			<styleUrl>#style_6125</styleUrl>
+			<Point>
+				<coordinates>-17.816368,28.588577,1387</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Edgar 2002 Section 19</name>
+			<TimeStamp><when>2015-04-20T08:30:39.295Z</when>
+</TimeStamp>
+			<styleUrl>#style_6487</styleUrl>
+			<Point>
+				<coordinates>-16.519632,28.305662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB20-27 Poris Plinian Base</name>
+			<TimeStamp><when>2015-04-20T12:26:37Z</when>
+</TimeStamp>
+			<styleUrl>#style_6980</styleUrl>
+			<Point>
+				<coordinates>-16.52472,28.303732,2218</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB20-28 Black And White</name>
+			<TimeStamp><when>2015-04-20T15:00:52Z</when>
+</TimeStamp>
+			<styleUrl>#style_7191</styleUrl>
+			<Point>
+				<coordinates>-16.489801,28.334015,2149</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Eras Jct</name>
+			<TimeStamp><when>2015-04-20T17:06:20.553Z</when>
+</TimeStamp>
+			<styleUrl>#style_7517</styleUrl>
+			<Point>
+				<coordinates>-16.426208,28.201399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB21-29 Dome On Pico Viejo (Green)</name>
+			<TimeStamp><when>2015-04-21T12:05:08Z</when>
+</TimeStamp>
+			<styleUrl>#style_9460</styleUrl>
+			<Point>
+				<coordinates>-16.660381,28.266836,3089</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB21-30 2ka fall, PV</name>
+			<TimeStamp><when>2015-04-21T12:20:44Z</when>
+</TimeStamp>
+			<styleUrl>#style_9486</styleUrl>
+			<Point>
+				<coordinates>-16.661037,28.265644,3061</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB21-31 Roques Blancos</name>
+			<TimeStamp><when>2015-04-21T13:49:55Z</when>
+</TimeStamp>
+			<styleUrl>#style_9664</styleUrl>
+			<Point>
+				<coordinates>-16.674238,28.26899,2850</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB21-32 frt-frtp Caracedo</name>
+			<TimeStamp><when>2015-04-21T14:31:44Z</when>
+</TimeStamp>
+			<styleUrl>#style_9710</styleUrl>
+			<Point>
+				<coordinates>-16.67809,28.262892,2758</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB21-33 pvg</name>
+			<TimeStamp><when>2015-04-21T14:56:54Z</when>
+</TimeStamp>
+			<styleUrl>#style_9737</styleUrl>
+			<Point>
+				<coordinates>-16.678926,28.261885,2750</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB21-34 Chahorra</name>
+			<TimeStamp><when>2015-04-21T16:19:19Z</when>
+</TimeStamp>
+			<styleUrl>#style_9972</styleUrl>
+			<Point>
+				<coordinates>-16.676826,28.255669,2735</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Playa Paraiso Adeje Fm. Dávia Harris</name>
+			<TimeStamp><when>2015-04-21T22:41:59.742Z</when>
+</TimeStamp>
+			<styleUrl>#style_10529</styleUrl>
+			<Point>
+				<coordinates>-16.775768,28.11942,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB22-35a+b</name>
+			<TimeStamp><when>2015-04-22T14:47:56Z</when>
+</TimeStamp>
+			<styleUrl>#style_11058</styleUrl>
+			<Point>
+				<coordinates>-16.427073,28.201958,52</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB23-36 Pvf</name>
+			<TimeStamp><when>2015-04-23T12:49:49Z</when>
+</TimeStamp>
+			<styleUrl>#style_11305</styleUrl>
+			<Point>
+				<coordinates>-16.654594,28.211508,2029</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15CB23-37 Chahorra 1798</name>
+			<TimeStamp><when>2015-04-23T13:13:26Z</when>
+</TimeStamp>
+			<styleUrl>#style_11347</styleUrl>
+			<Point>
+				<coordinates>-16.682316,28.218693,2061</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
