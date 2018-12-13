@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.2.6)  20 NOV 2018 12:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.2.6)  13 DEC 2018 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **"c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__Thesi
-sTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/Aeg_v18.1.tex"
+sTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/Aeg_v18.1.tex"
 
 (c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__ThesisT
-EX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/Aeg_v18.1.tex
+EX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/Aeg_v18.1.tex
 LaTeX2e <2017-04-15>
 Babel <3.17> and hyphenation patterns for 84 language(s) loaded.
 (c:/texlive/2017/texmf-dist/tex/latex/elsarticle/elsarticle.cls
@@ -75,8 +75,8 @@ File: upsy.fd 2001/06/04 font definitions for U/psy.
 \@@sep=\skip44
 
 (c:\Users\cbeard\ShareFile\Personal Folders\Dropbox\2013_McGill\1_PhD\__ThesisT
-EX\__Paper1_Aegirine\R2\LaTeX_Aegirine_R2/Aeg_v18.1.spl) (c:/texlive/2017/texmf
--dist/tex/latex/natbib/natbib.sty
+EX\__Paper1_Aegirine\AegirineManuscriptR2\LaTeX_Aegirine_R2/Aeg_v18.1.spl) (c:/
+texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip45
 \bibsep=\skip46
@@ -670,7 +670,7 @@ Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 LaTeX Info: Redefining \\ on input line 3056.
 )
 (c:\Users\cbeard\ShareFile\Personal Folders\Dropbox\2013_McGill\1_PhD\__ThesisT
-EX\__Paper1_Aegirine\R2\LaTeX_Aegirine_R2/Aeg_v18.1.aux)
+EX\__Paper1_Aegirine\AegirineManuscriptR2\LaTeX_Aegirine_R2/Aeg_v18.1.aux)
 \openout1 = `Aeg_v18.1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
@@ -787,8 +787,8 @@ Package pdftex.def Info: 1_CanariesTransects_Chem_BSE-01-eps-converted-to.pdf
 used on input line 228.
 (pdftex.def)             Requested size: 253.49762pt x 225.19559pt.
 [7] [8 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__
-ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/1_CanariesTransects_Chem_BSE-0
-1-eps-converted-to.pdf>] [9]
+ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/1_CanariesTr
+ansects_Chem_BSE-01-eps-converted-to.pdf>] [9]
 Package epstopdf Info: Source file: <2_Backscatter.eps>
 (epstopdf)                    date: 2018-08-03 12:43:32
 (epstopdf)                    size: 7448186 bytes
@@ -822,10 +822,10 @@ Package pdftex.def Info: 3_M5_Map_Partial-01-eps-converted-to.pdf  used on inpu
 t line 262.
 (pdftex.def)             Requested size: 175.49881pt x 187.88385pt.
 [10 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__The
-sisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/2_Backscatter-eps-converted-to.pd
-f>] [11 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/_
-_ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/3_M5_Map_Partial-01-eps-conve
-rted-to.pdf>]
+sisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/2_Backscatter-e
+ps-converted-to.pdf>] [11 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2
+013_McGill/1_PhD/__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegir
+ine_R2/3_M5_Map_Partial-01-eps-converted-to.pdf>]
 Overfull \hbox (0.18762pt too wide) in paragraph at lines 281--282
 []\OT1/cmr/m/n/12 Primary and sec-ondary stan-dards and an un-zoned Ca-nary Is-
 lands clinopy-
@@ -849,8 +849,18 @@ Package pdftex.def Info: 4_Px_F-free_Nov2018-eps-converted-to.pdf  used on inpu
 t line 311.
 (pdftex.def)             Requested size: 331.50238pt x 232.82213pt.
 [15] [16 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/
-__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/4_Px_F-free_Nov2018-eps-conv
-erted-to.pdf>] [17]
+__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/4_Px_F-fre
+e_Nov2018-eps-converted-to.pdf>] [17]
+Overfull \hbox (19.24448pt too wide) detected at line 342
+[]
+ []
+
+
+Overfull \hbox (9.3696pt too wide) detected at line 355
+[]
+ []
+
+[18]
 Package epstopdf Info: Source file: <5_ExchangeMechBar_REVIEW-02.eps>
 (epstopdf)                    date: 2018-07-17 10:18:47
 (epstopdf)                    size: 656438 bytes
@@ -860,18 +870,18 @@ to.pdf>
 (epstopdf)                    size: 37180 bytes
 (epstopdf)             Command: <repstopdf --outfile=5_ExchangeMechBar_REVIEW-0
 2-eps-converted-to.pdf 5_ExchangeMechBar_REVIEW-02.eps>
-(epstopdf)             \includegraphics on input line 359.
+(epstopdf)             \includegraphics on input line 395.
 Package epstopdf Info: Output file is already uptodate.
-<5_ExchangeMechBar_REVIEW-02-eps-converted-to.pdf, id=150, 507.8975pt x 244.915
+<5_ExchangeMechBar_REVIEW-02-eps-converted-to.pdf, id=153, 507.8975pt x 244.915
 pt>
 File: 5_ExchangeMechBar_REVIEW-02-eps-converted-to.pdf Graphic file (type pdf)
 <use 5_ExchangeMechBar_REVIEW-02-eps-converted-to.pdf>
 Package pdftex.def Info: 5_ExchangeMechBar_REVIEW-02-eps-converted-to.pdf  used
- on input line 359.
+ on input line 395.
 (pdftex.def)             Requested size: 390.0pt x 188.0694pt.
-[18] [19 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/
-__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/5_ExchangeMechBar_REVIEW-02-
-eps-converted-to.pdf>] [20] [21] [22]
+[19 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__The
+sisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/5_ExchangeMechB
+ar_REVIEW-02-eps-converted-to.pdf>] [20] [21] [22]
 Package epstopdf Info: Source file: <6_Px_D_Spider_Apr2018.eps>
 (epstopdf)                    date: 2018-08-03 13:05:57
 (epstopdf)                    size: 999770 bytes
@@ -881,22 +891,17 @@ Package epstopdf Info: Source file: <6_Px_D_Spider_Apr2018.eps>
 (epstopdf)                    size: 61770 bytes
 (epstopdf)             Command: <repstopdf --outfile=6_Px_D_Spider_Apr2018-eps-
 converted-to.pdf 6_Px_D_Spider_Apr2018.eps>
-(epstopdf)             \includegraphics on input line 417.
+(epstopdf)             \includegraphics on input line 459.
 Package epstopdf Info: Output file is already uptodate.
 <6_Px_D_Spider_Apr2018-eps-converted-to.pdf, id=178, 568.1225pt x 309.155pt>
 File: 6_Px_D_Spider_Apr2018-eps-converted-to.pdf Graphic file (type pdf)
 <use 6_Px_D_Spider_Apr2018-eps-converted-to.pdf>
 Package pdftex.def Info: 6_Px_D_Spider_Apr2018-eps-converted-to.pdf  used on in
-put line 417.
+put line 459.
 (pdftex.def)             Requested size: 292.5pt x 159.1765pt.
-[23 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__The
-sisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/6_Px_D_Spider_Apr2018-eps-convert
-ed-to.pdf>] [24]
-Overfull \hbox (28.03038pt too wide) in paragraph at lines 431--432
-[]\OT1/cmr/m/n/12 The Ca-nary Is-lands clinopy-rox-ene show sim-i-lar rare-eart
-h-element partitioning-
- []
-
+[23] [24 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/
+__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/6_Px_D_Spi
+der_Apr2018-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <7_D_Al_iv_Literature_Jun2017-01.eps>
 (epstopdf)                    date: 2018-08-03 15:45:52
 (epstopdf)                    size: 9637774 bytes
@@ -906,7 +911,7 @@ ted-to.pdf>
 (epstopdf)                    size: 958900 bytes
 (epstopdf)             Command: <repstopdf --outfile=7_D_Al_iv_Literature_Jun20
 17-01-eps-converted-to.pdf 7_D_Al_iv_Literature_Jun2017-01.eps>
-(epstopdf)             \includegraphics on input line 436.
+(epstopdf)             \includegraphics on input line 476.
 Package epstopdf Info: Output file is already uptodate.
 <7_D_Al_iv_Literature_Jun2017-01-eps-converted-to.pdf, id=196, 1014.79124pt x 1
 851.91875pt>
@@ -914,11 +919,14 @@ File: 7_D_Al_iv_Literature_Jun2017-01-eps-converted-to.pdf Graphic file (type p
 df)
 <use 7_D_Al_iv_Literature_Jun2017-01-eps-converted-to.pdf>
 Package pdftex.def Info: 7_D_Al_iv_Literature_Jun2017-01-eps-converted-to.pdf  
-used on input line 436.
+used on input line 476.
 (pdftex.def)             Requested size: 241.7981pt x 441.24817pt.
+
+LaTeX Warning: Float too large for page by 5.74817pt on input line 480.
+
 [25] [26 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/
-__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/7_D_Al_iv_Literature_Jun2017
--01-eps-converted-to.pdf>]
+__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/7_D_Al_iv_
+Literature_Jun2017-01-eps-converted-to.pdf>] [27]
 Package epstopdf Info: Source file: <11_NBO-T_Traces.eps>
 (epstopdf)                    date: 2018-11-20 11:55:54
 (epstopdf)                    size: 3805202 bytes
@@ -927,20 +935,17 @@ Package epstopdf Info: Source file: <11_NBO-T_Traces.eps>
 (epstopdf)                    size: 58913 bytes
 (epstopdf)             Command: <repstopdf --outfile=11_NBO-T_Traces-eps-conver
 ted-to.pdf 11_NBO-T_Traces.eps>
-(epstopdf)             \includegraphics on input line 455.
+(epstopdf)             \includegraphics on input line 499.
 Package epstopdf Info: Output file is already uptodate.
-<11_NBO-T_Traces-eps-converted-to.pdf, id=246, 1034.86626pt x 1465.475pt>
+<11_NBO-T_Traces-eps-converted-to.pdf, id=249, 1034.86626pt x 1465.475pt>
 File: 11_NBO-T_Traces-eps-converted-to.pdf Graphic file (type pdf)
 <use 11_NBO-T_Traces-eps-converted-to.pdf>
 Package pdftex.def Info: 11_NBO-T_Traces-eps-converted-to.pdf  used on input li
-ne 455.
+ne 499.
 (pdftex.def)             Requested size: 312.00119pt x 441.81494pt.
 
-LaTeX Warning: Float too large for page by 44.81494pt on input line 459.
+LaTeX Warning: Float too large for page by 8.25938pt on input line 503.
 
-[27] [28 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/
-__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/11_NBO-T_Traces-eps-converte
-d-to.pdf>]
 Package epstopdf Info: Source file: <8_Latticestrain-01.eps>
 (epstopdf)                    date: 2018-07-17 09:45:21
 (epstopdf)                    size: 3016974 bytes
@@ -949,23 +954,29 @@ Package epstopdf Info: Source file: <8_Latticestrain-01.eps>
 (epstopdf)                    size: 391581 bytes
 (epstopdf)             Command: <repstopdf --outfile=8_Latticestrain-01-eps-con
 verted-to.pdf 8_Latticestrain-01.eps>
-(epstopdf)             \includegraphics on input line 497.
+(epstopdf)             \includegraphics on input line 533.
 Package epstopdf Info: Output file is already uptodate.
-<8_Latticestrain-01-eps-converted-to.pdf, id=268, 865.2325pt x 426.59375pt>
+<8_Latticestrain-01-eps-converted-to.pdf, id=250, 865.2325pt x 426.59375pt>
 File: 8_Latticestrain-01-eps-converted-to.pdf Graphic file (type pdf)
 <use 8_Latticestrain-01-eps-converted-to.pdf>
 Package pdftex.def Info: 8_Latticestrain-01-eps-converted-to.pdf  used on input
- line 497.
+ line 533.
 (pdftex.def)             Requested size: 390.0pt x 192.28436pt.
 
-Overfull \hbox (1.85843pt too wide) in paragraph at lines 504--505
+Overfull \hbox (1.85843pt too wide) in paragraph at lines 540--541
 []\OT1/cmr/m/n/12 The equi-lib-rium par-ti-tion-ing of trace-elements be-tween 
 min-er-als and melts
  []
 
-[29] [30 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/
-__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/8_Latticestrain-01-eps-conve
-rted-to.pdf>] [31] [32]
+[28] [29 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/
+__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/11_NBO-T_T
+races-eps-converted-to.pdf>] [30 <c:/Users/cbeard/ShareFile/Personal Folders/Dr
+opbox/2013_McGill/1_PhD/__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTe
+X_Aegirine_R2/8_Latticestrain-01-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `Ae_SupTbl)' on page 31 undefined on input line 565.
+
+[31]
 Package epstopdf Info: Source file: <9_Px_XRD_Jun2017-01.eps>
 (epstopdf)                    date: 2018-07-17 09:46:27
 (epstopdf)                    size: 1391746 bytes
@@ -974,53 +985,52 @@ Package epstopdf Info: Source file: <9_Px_XRD_Jun2017-01.eps>
 (epstopdf)                    size: 128704 bytes
 (epstopdf)             Command: <repstopdf --outfile=9_Px_XRD_Jun2017-01-eps-co
 nverted-to.pdf 9_Px_XRD_Jun2017-01.eps>
-(epstopdf)             \includegraphics on input line 537.
+(epstopdf)             \includegraphics on input line 573.
 Package epstopdf Info: Output file is already uptodate.
-<9_Px_XRD_Jun2017-01-eps-converted-to.pdf, id=303, 511.9125pt x 495.8525pt>
+<9_Px_XRD_Jun2017-01-eps-converted-to.pdf, id=300, 511.9125pt x 495.8525pt>
 File: 9_Px_XRD_Jun2017-01-eps-converted-to.pdf Graphic file (type pdf)
 <use 9_Px_XRD_Jun2017-01-eps-converted-to.pdf>
 Package pdftex.def Info: 9_Px_XRD_Jun2017-01-eps-converted-to.pdf  used on inpu
-t line 537.
+t line 573.
 (pdftex.def)             Requested size: 175.49881pt x 169.98734pt.
-[33 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__The
-sisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/9_Px_XRD_Jun2017-01-eps-converted
--to.pdf>]
-Package epstopdf Info: Source file: <10_LST_Aliv_mech-01.eps>
-(epstopdf)                    date: 2018-08-03 16:13:10
-(epstopdf)                    size: 4878962 bytes
-(epstopdf)             Output file: <10_LST_Aliv_mech-01-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-20 10:23:04
-(epstopdf)                    size: 309425 bytes
-(epstopdf)             Command: <repstopdf --outfile=10_LST_Aliv_mech-01-eps-co
-nverted-to.pdf 10_LST_Aliv_mech-01.eps>
-(epstopdf)             \includegraphics on input line 553.
+[32 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__The
+sisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/9_Px_XRD_Jun201
+7-01-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <10_LST_mech_Dec18.eps>
+(epstopdf)                    date: 2018-12-13 14:08:22
+(epstopdf)                    size: 3402846 bytes
+(epstopdf)             Output file: <10_LST_mech_Dec18-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-13 14:11:24
+(epstopdf)                    size: 233681 bytes
+(epstopdf)             Command: <repstopdf --outfile=10_LST_mech_Dec18-eps-conv
+erted-to.pdf 10_LST_mech_Dec18.eps>
+(epstopdf)             \includegraphics on input line 589.
 Package epstopdf Info: Output file is already uptodate.
-<10_LST_Aliv_mech-01-eps-converted-to.pdf, id=331, 1019.81pt x 1475.5125pt>
-File: 10_LST_Aliv_mech-01-eps-converted-to.pdf Graphic file (type pdf)
-<use 10_LST_Aliv_mech-01-eps-converted-to.pdf>
-Package pdftex.def Info: 10_LST_Aliv_mech-01-eps-converted-to.pdf  used on inpu
-t line 553.
-(pdftex.def)             Requested size: 253.49762pt x 366.76086pt.
-[34] [35 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/
-__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/10_LST_Aliv_mech-01-eps-conv
-erted-to.pdf>]
-Overfull \hbox (3.62091pt too wide) in paragraph at lines 566--567
+<10_LST_mech_Dec18-eps-converted-to.pdf, id=327, 1019.81pt x 984.67876pt>
+File: 10_LST_mech_Dec18-eps-converted-to.pdf Graphic file (type pdf)
+<use 10_LST_mech_Dec18-eps-converted-to.pdf>
+Package pdftex.def Info: 10_LST_mech_Dec18-eps-converted-to.pdf  used on input 
+line 589.
+(pdftex.def)             Requested size: 312.00119pt x 301.25061pt.
+[33] [34 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/
+__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/10_LST_mec
+h_Dec18-eps-converted-to.pdf>]
+Overfull \hbox (3.62091pt too wide) in paragraph at lines 601--602
 \OT1/cmr/m/n/12 charged trace-elements has been ex-ten-sively doc-u-mented in s
 tud-ies on clinopy-
  []
 
-[36] [37]
-Overfull \hbox (7.66809pt too wide) in paragraph at lines 599--600
-[]\OT1/cmr/m/n/12 To find the prin-ci-pal phys-io-chem-i-cal fac-tors that af-f
-ect element-partitioning
+[35] [36]
+Overfull \hbox (12.89026pt too wide) in paragraph at lines 631--632
+[]\OT1/cmr/m/n/12 To find the prin-ci-pal physic-o-chem-i-cal fac-tors that af-
+fect element-partitioning
  []
 
-[38]
-Underfull \hbox (badness 10000) in paragraph at lines 605--606
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 634--635
 
  []
 
-[39]
 Package epstopdf Info: Source file: <12_StepwiseMultilinear_M1M2_24Oct2017.eps>
 
 (epstopdf)                    date: 2018-07-17 08:56:49
@@ -1031,19 +1041,19 @@ converted-to.pdf>
 (epstopdf)                    size: 261616 bytes
 (epstopdf)             Command: <repstopdf --outfile=12_StepwiseMultilinear_M1M
 2_24Oct2017-eps-converted-to.pdf 12_StepwiseMultilinear_M1M2_24Oct2017.eps>
-(epstopdf)             \includegraphics on input line 632.
+(epstopdf)             \includegraphics on input line 661.
 Package epstopdf Info: Output file is already uptodate.
-<12_StepwiseMultilinear_M1M2_24Oct2017-eps-converted-to.pdf, id=373, 1362.08875
+<12_StepwiseMultilinear_M1M2_24Oct2017-eps-converted-to.pdf, id=365, 1362.08875
 pt x 815.045pt>
 File: 12_StepwiseMultilinear_M1M2_24Oct2017-eps-converted-to.pdf Graphic file (
 type pdf)
 <use 12_StepwiseMultilinear_M1M2_24Oct2017-eps-converted-to.pdf>
 Package pdftex.def Info: 12_StepwiseMultilinear_M1M2_24Oct2017-eps-converted-to
-.pdf  used on input line 632.
+.pdf  used on input line 661.
 (pdftex.def)             Requested size: 548.5pt x 328.21349pt.
-[40] [41 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/
-__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/12_StepwiseMultilinear_M1M2_
-24Oct2017-eps-converted-to.pdf>] [42]
+[38] [39 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/
+__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/12_Stepwis
+eMultilinear_M1M2_24Oct2017-eps-converted-to.pdf>] [40]
 Package epstopdf Info: Source file: <13_13thOct_VvHmodel_M1M2-02.eps>
 (epstopdf)                    date: 2018-08-22 10:56:56
 (epstopdf)                    size: 7653298 bytes
@@ -1053,16 +1063,18 @@ to.pdf>
 (epstopdf)                    size: 800013 bytes
 (epstopdf)             Command: <repstopdf --outfile=13_13thOct_VvHmodel_M1M2-0
 2-eps-converted-to.pdf 13_13thOct_VvHmodel_M1M2-02.eps>
-(epstopdf)             \includegraphics on input line 657.
+(epstopdf)             \includegraphics on input line 686.
 Package epstopdf Info: Output file is already uptodate.
-<13_13thOct_VvHmodel_M1M2-02-eps-converted-to.pdf, id=403, 1041.8925pt x 999.73
+<13_13thOct_VvHmodel_M1M2-02-eps-converted-to.pdf, id=395, 1041.8925pt x 999.73
 5pt>
 File: 13_13thOct_VvHmodel_M1M2-02-eps-converted-to.pdf Graphic file (type pdf)
 <use 13_13thOct_VvHmodel_M1M2-02-eps-converted-to.pdf>
 Package pdftex.def Info: 13_13thOct_VvHmodel_M1M2-02-eps-converted-to.pdf  used
- on input line 657.
+ on input line 686.
 (pdftex.def)             Requested size: 253.49762pt x 243.23631pt.
-[43]
+[41] [42 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/
+__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/13_13thOct
+_VvHmodel_M1M2-02-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <14_SpiderDTest.eps>
 (epstopdf)                    date: 2018-07-17 08:57:15
 (epstopdf)                    size: 1307774 bytes
@@ -1071,15 +1083,17 @@ Package epstopdf Info: Source file: <14_SpiderDTest.eps>
 (epstopdf)                    size: 77991 bytes
 (epstopdf)             Command: <repstopdf --outfile=14_SpiderDTest-eps-convert
 ed-to.pdf 14_SpiderDTest.eps>
-(epstopdf)             \includegraphics on input line 696.
+(epstopdf)             \includegraphics on input line 725.
 Package epstopdf Info: Output file is already uptodate.
-<14_SpiderDTest-eps-converted-to.pdf, id=408, 504.88625pt x 467.7475pt>
+<14_SpiderDTest-eps-converted-to.pdf, id=432, 504.88625pt x 467.7475pt>
 File: 14_SpiderDTest-eps-converted-to.pdf Graphic file (type pdf)
 <use 14_SpiderDTest-eps-converted-to.pdf>
 Package pdftex.def Info: 14_SpiderDTest-eps-converted-to.pdf  used on input lin
-e 696.
+e 725.
 (pdftex.def)             Requested size: 175.49881pt x 162.58638pt.
-[44] [45]
+[43] [44 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/
+__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/14_SpiderD
+Test-eps-converted-to.pdf>] [45] [46]
 Package epstopdf Info: Source file: <15_FractCryst_Giehl_NoContours.eps>
 (epstopdf)                    date: 2018-07-17 08:57:26
 (epstopdf)                    size: 1507610 bytes
@@ -1089,45 +1103,47 @@ ed-to.pdf>
 (epstopdf)                    size: 161051 bytes
 (epstopdf)             Command: <repstopdf --outfile=15_FractCryst_Giehl_NoCont
 ours-eps-converted-to.pdf 15_FractCryst_Giehl_NoContours.eps>
-(epstopdf)             \includegraphics on input line 730.
+(epstopdf)             \includegraphics on input line 759.
 Package epstopdf Info: Output file is already uptodate.
-<15_FractCryst_Giehl_NoContours-eps-converted-to.pdf, id=415, 513.92pt x 507.89
+<15_FractCryst_Giehl_NoContours-eps-converted-to.pdf, id=456, 513.92pt x 507.89
 75pt>
 File: 15_FractCryst_Giehl_NoContours-eps-converted-to.pdf Graphic file (type pd
 f)
 <use 15_FractCryst_Giehl_NoContours-eps-converted-to.pdf>
 Package pdftex.def Info: 15_FractCryst_Giehl_NoContours-eps-converted-to.pdf  u
-sed on input line 730.
+sed on input line 759.
 (pdftex.def)             Requested size: 175.49881pt x 173.44235pt.
-[46] [47]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 765.
+[47 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__The
+sisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/15_FractCryst_G
+iehl_NoContours-eps-converted-to.pdf>] [48]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 794.
 
 (c:/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 765.
-[48]
-Overfull \hbox (1.29189pt too wide) in paragraph at lines 771--772
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 794.
+[49]
+Overfull \hbox (1.29189pt too wide) in paragraph at lines 800--801
 \OT1/cmr/m/n/12 Much like in sys-tems of lower al-ka-lin-ity, REE in-cor-po-ra-
 tion into clinopy-
  []
 
 
-Overfull \hbox (2.8987pt too wide) in paragraph at lines 778--779
+Overfull \hbox (2.8987pt too wide) in paragraph at lines 804--805
 []\OT1/cmr/m/n/12 Crystallisation of abun-dant Ca-Mg rich clinopy-rox-ene de-pl
 etes the resid-
  []
 
 
-Overfull \hbox (8.01959pt too wide) in paragraph at lines 780--781
+Overfull \hbox (8.01959pt too wide) in paragraph at lines 806--807
 []\OT1/cmr/m/n/12 Clinopyroxene--melt REE par-ti-tion-ing sys-tem-at-ics sug-ge
 st that nepheline
  []
 
-[49]
+[50]
 (c:\Users\cbeard\ShareFile\Personal Folders\Dropbox\2013_McGill\1_PhD\__ThesisT
-EX\__Paper1_Aegirine\R2\LaTeX_Aegirine_R2/Aeg_v18.1.bbl [50]
+EX\__Paper1_Aegirine\AegirineManuscriptR2\LaTeX_Aegirine_R2/Aeg_v18.1.bbl [51]
 Missing character: There is no â in font cmr12!
 Missing character: There is no ˆ in font cmr12!
 Missing character: There is no ¼ in font cmr12!
@@ -1137,7 +1153,7 @@ Underfull \hbox (badness 1077) in paragraph at lines 46--54
 -
  []
 
-[51] [52] [53] [54] [55] [56] [57]
+[52] [53] [54] [55] [56] [57]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
@@ -1153,7 +1169,7 @@ Missing character: There is no “ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
-
+[58]
 Underfull \hbox (badness 1931) in paragraph at lines 477--487
 []\OT1/cmr/m/n/12 Hanchar, J.M., Finch, R.J., Hoskin, P.W.O., Wat-son, E.B., Ch
 er-
@@ -1165,7 +1181,7 @@ Underfull \hbox (badness 1953) in paragraph at lines 477--487
 -pho-
  []
 
-[58]
+[59]
 Underfull \hbox (badness 2837) in paragraph at lines 570--577
 []\OT1/cmr/m/n/12 Kumazawa, M., 1969.  The elas-tic con-stants of single-crysta
 l or-
@@ -1177,11 +1193,11 @@ Underfull \hbox (badness 5446) in paragraph at lines 570--577
 5980.
  []
 
-[59] [60]
+[60] [61]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ˜ in font cmr12!
-[61]
+[62]
 Underfull \hbox (badness 1057) in paragraph at lines 723--732
 []\OT1/cmr/m/n/12 M^^?oller, V., Williams-Jones, A.E., 2016.  Pet-ro-ge-n-e-sis
  of the Necha-
@@ -1196,81 +1212,75 @@ b-
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
-[62] [63]
-Underfull \hbox (badness 2717) in paragraph at lines 875--881
+[63] [64]
+Underfull \hbox (badness 2717) in paragraph at lines 866--872
 []\OT1/cmr/m/n/12 Putirka, K.D., 2008.  Ther-mome-ters and Barom-e-ters for Vol
 -canic
  []
 
 
-Underfull \hbox (badness 2521) in paragraph at lines 875--881
+Underfull \hbox (badness 2521) in paragraph at lines 866--872
 \OT1/cmr/m/n/12 Sys-tems.  Re-views in Min-er-al-ogy and Geo-chem-istry 69, 61-
 -120.
  []
 
-[64]
-Underfull \hbox (badness 2828) in paragraph at lines 899--910
+
+Underfull \hbox (badness 2828) in paragraph at lines 890--901
 []\OT1/cmr/m/n/12 Redhammer, G.J., Amthauer, G., Roth, G., Tip-pelt, G., Lot-te
 r-
  []
 
-
-Underfull \hbox (badness 3291) in paragraph at lines 924--933
+[65]
+Underfull \hbox (badness 3291) in paragraph at lines 915--924
 []\OT1/cmr/m/n/12 Rubatto, D., Her-mann, J., 2007.  Ex-per-i-men-tal zir-con/me
 lt and
  []
 
 
-Underfull \hbox (badness 3439) in paragraph at lines 924--933
+Underfull \hbox (badness 3439) in paragraph at lines 915--924
 \OT1/cmr/m/n/12 zir-con/garnet trace el-e-ment par-ti-tion-ing and im-pli-ca-ti
 ons for the
  []
 
 
-Underfull \hbox (badness 3679) in paragraph at lines 924--933
+Underfull \hbox (badness 3679) in paragraph at lines 915--924
 \OT1/cmr/m/n/12 geochronol-ogy of crustal rocks.  Chem-i-cal Ge-ol-ogy 241, 38-
 -61.
  []
 
-[65]
-Underfull \hbox (badness 10000) in paragraph at lines 985--993
+[66]
+Underfull \hbox (badness 10000) in paragraph at lines 976--984
 \OT1/cmr/m/n/12 induced crys-tal-liza-tion in hy-drous mafic-intermediate mag-m
 as.
  []
 
 
-Underfull \hbox (badness 4647) in paragraph at lines 985--993
+Underfull \hbox (badness 4647) in paragraph at lines 976--984
 \OT1/cmr/m/n/12 Jour-nal of Vol-canol-ogy and Geother-mal Re-search 260, 127--1
 45.
  []
 
-[66] [67]
-Underfull \hbox (badness 2884) in paragraph at lines 1118--1126
+[67] [68]
+Underfull \hbox (badness 2884) in paragraph at lines 1109--1117
 \OT1/cmr/m/n/12 el-e-ment par-ti-tion-ing be-tween clinopy-rox-ene and an-hy-dr
 ous sil-i-cate
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 1118--1126
+Underfull \hbox (badness 2285) in paragraph at lines 1109--1117
 \OT1/cmr/m/n/12 melt.  Con-tri-bu-tions to Min-er-al-ogy and Petrol-ogy 129, 16
 6--181.
  []
 
-[68] [69]) [70] [71 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_Mc
-Gill/1_PhD/__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/13_13thOct_VvHmod
-el_M1M2-02-eps-converted-to.pdf>] [72 <c:/Users/cbeard/ShareFile/Personal Folde
-rs/Dropbox/2013_McGill/1_PhD/__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2
-/14_SpiderDTest-eps-converted-to.pdf>] [73 <c:/Users/cbeard/ShareFile/Personal 
-Folders/Dropbox/2013_McGill/1_PhD/__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegiri
-ne_R2/15_FractCryst_Giehl_NoContours-eps-converted-to.pdf>]
+[69] [70]) [71]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 942.
+               Default added (so using `tbp') on input line 968.
 
-[74
+[72
 
 
-] [75] [76] [77] [78]
+] [73] [74] [75] [76]
 Package epstopdf Info: Source file: <S1_TAS_Aug2018.eps>
 (epstopdf)                    date: 2018-08-03 12:20:35
 (epstopdf)                    size: 3486278 bytes
@@ -1279,13 +1289,13 @@ Package epstopdf Info: Source file: <S1_TAS_Aug2018.eps>
 (epstopdf)                    size: 225771 bytes
 (epstopdf)             Command: <repstopdf --outfile=S1_TAS_Aug2018-eps-convert
 ed-to.pdf S1_TAS_Aug2018.eps>
-(epstopdf)             \includegraphics on input line 1009.
+(epstopdf)             \includegraphics on input line 1035.
 Package epstopdf Info: Output file is already uptodate.
-<S1_TAS_Aug2018-eps-converted-to.pdf, id=576, 1349.04pt x 783.92876pt>
+<S1_TAS_Aug2018-eps-converted-to.pdf, id=568, 1349.04pt x 783.92876pt>
 File: S1_TAS_Aug2018-eps-converted-to.pdf Graphic file (type pdf)
 <use S1_TAS_Aug2018-eps-converted-to.pdf>
 Package pdftex.def Info: S1_TAS_Aug2018-eps-converted-to.pdf  used on input lin
-e 1009.
+e 1035.
 (pdftex.def)             Requested size: 390.0pt x 226.62778pt.
 Package epstopdf Info: Source file: <S1_Glass_maj_Aug2018.eps>
 (epstopdf)                    date: 2018-08-03 12:20:57
@@ -1296,19 +1306,19 @@ Package epstopdf Info: Source file: <S1_Glass_maj_Aug2018.eps>
 (epstopdf)                    size: 488559 bytes
 (epstopdf)             Command: <repstopdf --outfile=S1_Glass_maj_Aug2018-eps-c
 onverted-to.pdf S1_Glass_maj_Aug2018.eps>
-(epstopdf)             \includegraphics on input line 1020.
+(epstopdf)             \includegraphics on input line 1046.
 Package epstopdf Info: Output file is already uptodate.
-<S1_Glass_maj_Aug2018-eps-converted-to.pdf, id=577, 1518.67375pt x 986.68625pt>
+<S1_Glass_maj_Aug2018-eps-converted-to.pdf, id=569, 1518.67375pt x 986.68625pt>
 
 File: S1_Glass_maj_Aug2018-eps-converted-to.pdf Graphic file (type pdf)
 <use S1_Glass_maj_Aug2018-eps-converted-to.pdf>
 Package pdftex.def Info: S1_Glass_maj_Aug2018-eps-converted-to.pdf  used on inp
-ut line 1020.
+ut line 1046.
 (pdftex.def)             Requested size: 493.64665pt x 320.7144pt.
-<S2_Nov2016_maps_2-11-2016.pdf, id=578, 6040.9488pt x 4070.03569pt>
+<S2_Nov2016_maps_2-11-2016.pdf, id=570, 6040.9488pt x 4070.03569pt>
 File: S2_Nov2016_maps_2-11-2016.pdf Graphic file (type pdf)
 <use S2_Nov2016_maps_2-11-2016.pdf>
-Package pdftex.def Info: S2_Nov2016_maps_2-11-2016.pdf  used on input line 1031
+Package pdftex.def Info: S2_Nov2016_maps_2-11-2016.pdf  used on input line 1057
 .
 (pdftex.def)             Requested size: 493.64665pt x 332.56512pt.
 Package epstopdf Info: Source file: <S3_ExchMech_Feb2017-02.eps>
@@ -1320,53 +1330,28 @@ f>
 (epstopdf)                    size: 93614 bytes
 (epstopdf)             Command: <repstopdf --outfile=S3_ExchMech_Feb2017-02-eps
 -converted-to.pdf S3_ExchMech_Feb2017-02.eps>
-(epstopdf)             \includegraphics on input line 1048.
+(epstopdf)             \includegraphics on input line 1074.
 Package epstopdf Info: Output file is already uptodate.
-<S3_ExchMech_Feb2017-02-eps-converted-to.pdf, id=579, 335.2525pt x 961.5925pt>
+<S3_ExchMech_Feb2017-02-eps-converted-to.pdf, id=571, 335.2525pt x 961.5925pt>
 File: S3_ExchMech_Feb2017-02-eps-converted-to.pdf Graphic file (type pdf)
 <use S3_ExchMech_Feb2017-02-eps-converted-to.pdf>
 Package pdftex.def Info: S3_ExchMech_Feb2017-02-eps-converted-to.pdf  used on i
-nput line 1048.
+nput line 1074.
 (pdftex.def)             Requested size: 183.30048pt x 525.75223pt.
 
-Underfull \hbox (badness 1057) in paragraph at lines 1051--1051
+Underfull \hbox (badness 1057) in paragraph at lines 1077--1077
 \OT1/cmr/m/n/10 a-nisms for (a) high, (b) medium and
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 1051--1051
+Underfull \hbox (badness 1117) in paragraph at lines 1077--1077
 \OT1/cmr/m/n/10 signed to 2+ or 3+ va-lence fol-low-ing
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 1051--1051
-\OT1/cmr/m/n/10 were as-signed to sites fol-low-ing Mo-ri-
+Underfull \hbox (badness 1112) in paragraph at lines 1077--1077
+\OT1/cmr/m/n/10 major-element abun-dances, which have
  []
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 1058.
-
-Package epstopdf Info: Source file: <S4_QAQC_LaserMix_H5_2.eps>
-(epstopdf)                    date: 2018-07-17 09:00:26
-(epstopdf)                    size: 2235214 bytes
-(epstopdf)             Output file: <S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf
->
-(epstopdf)                    date: 2018-11-20 10:24:04
-(epstopdf)                    size: 69856 bytes
-(epstopdf)             Command: <repstopdf --outfile=S4_QAQC_LaserMix_H5_2-eps-
-converted-to.pdf S4_QAQC_LaserMix_H5_2.eps>
-(epstopdf)             \includegraphics on input line 1060.
-Package epstopdf Info: Output file is already uptodate.
-<S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf, id=580, 898.35625pt x 806.01125pt>
-
-File: S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf Graphic file (type pdf)
-<use S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf>
-Package pdftex.def Info: S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf  used on in
-put line 1060.
-(pdftex.def)             Requested size: 253.49762pt x 227.44032pt.
-
-LaTeX Warning: Float too large for page by 117.88477pt on input line 1066.
 
 Package epstopdf Info: Source file: <S5_D_XNaM2.eps>
 (epstopdf)                    date: 2018-07-17 09:51:09
@@ -1376,99 +1361,115 @@ Package epstopdf Info: Source file: <S5_D_XNaM2.eps>
 (epstopdf)                    size: 760621 bytes
 (epstopdf)             Command: <repstopdf --outfile=S5_D_XNaM2-eps-converted-t
 o.pdf S5_D_XNaM2.eps>
-(epstopdf)             \includegraphics on input line 1070.
+(epstopdf)             \includegraphics on input line 1086.
 Package epstopdf Info: Output file is already uptodate.
-<S5_D_XNaM2-eps-converted-to.pdf, id=581, 1014.79124pt x 1848.9075pt>
+<S5_D_XNaM2-eps-converted-to.pdf, id=572, 1014.79124pt x 1848.9075pt>
 File: S5_D_XNaM2-eps-converted-to.pdf Graphic file (type pdf)
 <use S5_D_XNaM2-eps-converted-to.pdf>
 Package pdftex.def Info: S5_D_XNaM2-eps-converted-to.pdf  used on input line 10
-70.
+86.
 (pdftex.def)             Requested size: 272.99881pt x 497.37791pt.
 
-LaTeX Warning: Float too large for page by 28.37791pt on input line 1074.
+LaTeX Warning: Float too large for page by 28.37791pt on input line 1090.
 
-[79
+[77
 
  <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__Thesis
-TEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/S1_TAS_Aug2018-eps-converted-to.pdf>
-] [80 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__T
-hesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/S1_Glass_maj_Aug2018-eps-conver
-ted-to.pdf>] [81 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGil
-l/1_PhD/__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/S2_Nov2016_maps_2-11
--2016.pdf>] [82 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill
-/1_PhD/__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/S3_ExchMech_Feb2017-0
-2-eps-converted-to.pdf>] [83 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbo
-x/2013_McGill/1_PhD/__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/S4_QAQC_
-LaserMix_H5_2-eps-converted-to.pdf>] [84 <c:/Users/cbeard/ShareFile/Personal Fo
-lders/Dropbox/2013_McGill/1_PhD/__ThesisTEX/__Paper1_Aegirine/R2/LaTeX_Aegirine
-_R2/S5_D_XNaM2-eps-converted-to.pdf>] [85
-
-] [86]
+TEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/S1_TAS_Aug2018-eps
+-converted-to.pdf>] [78 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/201
+3_McGill/1_PhD/__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirin
+e_R2/S1_Glass_maj_Aug2018-eps-converted-to.pdf>] [79 <c:/Users/cbeard/ShareFile
+/Personal Folders/Dropbox/2013_McGill/1_PhD/__ThesisTEX/__Paper1_Aegirine/Aegir
+ineManuscriptR2/LaTeX_Aegirine_R2/S2_Nov2016_maps_2-11-2016.pdf>] [80 <c:/Users
+/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__ThesisTEX/__Pape
+r1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/S3_ExchMech_Feb2017-02-eps-c
+onverted-to.pdf>] [81 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_
+McGill/1_PhD/__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_
+R2/S5_D_XNaM2-eps-converted-to.pdf>]
 (c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__ThesisT
-EX/__Paper1_Aegirine/R2/LaTeX_Aegirine_R2/ApproachEq_Exp.tex [87]
+EX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/LaserMix.tex
+Package epstopdf Info: Source file: <S4_QAQC_LaserMix_H5_2.eps>
+(epstopdf)                    date: 2018-12-06 16:56:41
+(epstopdf)                    size: 2242442 bytes
+(epstopdf)             Output file: <S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2018-12-06 17:31:59
+(epstopdf)                    size: 68449 bytes
+(epstopdf)             Command: <repstopdf --outfile=S4_QAQC_LaserMix_H5_2-eps-
+converted-to.pdf S4_QAQC_LaserMix_H5_2.eps>
+(epstopdf)             \includegraphics on input line 3.
+Package epstopdf Info: Output file is already uptodate.
+<S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf, id=748, 898.35625pt x 804.00375pt>
+
+File: S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf Graphic file (type pdf)
+<use S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf>
+Package pdftex.def Info: S4_QAQC_LaserMix_H5_2-eps-converted-to.pdf  used on in
+put line 3.
+(pdftex.def)             Requested size: 331.50238pt x 296.6793pt.
+[82
+
+]) [83 <c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__
+ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/S4_QAQC_Lase
+rMix_H5_2-eps-converted-to.pdf>] [84]
+Overfull \hbox (3.84723pt too wide) in paragraph at lines 1145--1145
+[]\OT1/cmr/bx/n/12 Numerical model for pre-dic-tion of clinopy-rox-ene/melt
+ []
+
+
+(c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__ThesisT
+EX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/ApproachEq_Exp.tex 
+[85] [86]
 Overfull \hbox (3.22925pt too wide) in paragraph at lines 20--22
 \OT1/cmr/m/n/12 diffusion-coefficients are 6 or-ders of mag-ni-tude higher than
  for water-saturated
  []
 
-[88] [89]
-Overfull \hbox (1.50359pt too wide) in paragraph at lines 38--38
-[]\OT1/cmr/m/it/12 Chemical zona-tion in the ex-per-i-ment clinopy-rox-ene: The
--o-ret-i-cal frame-
- []
-
-[90]
+[87] [88] [89]
 Overfull \hbox (26.55191pt too wide) in paragraph at lines 42--43
 \OT1/cmr/m/n/12 pled dur-ing \OT1/cmr/m/it/12 in-situ \OT1/cmr/m/n/12 anal-y-se
 s all experimentally-determined trace-element partition-
  []
 
-[91]
-
-Package natbib Warning: Citation `Beard_PhD_Thesis' on page 92 undefined on inp
-ut line 55.
-
-[92])
-
-Package natbib Warning: There were undefined citations.
-
-AED endfloat: Processing end Figures and Tables [93]
+[90] [91]) AED endfloat: Processing end Figures and Tables [92]
 (c:\Users\cbeard\ShareFile\Personal Folders\Dropbox\2013_McGill\1_PhD\__ThesisT
-EX\__Paper1_Aegirine\R2\LaTeX_Aegirine_R2/Aeg_v18.1.aux) ) 
+EX\__Paper1_Aegirine\AegirineManuscriptR2\LaTeX_Aegirine_R2/Aeg_v18.1.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 16292 strings out of 492980
- 328512 string characters out of 6136208
- 446183 words of memory out of 5000000
- 19633 multiletter control sequences out of 15000+600000
+ 16296 strings out of 492980
+ 329076 string characters out of 6136208
+ 461883 words of memory out of 5000000
+ 19634 multiletter control sequences out of 15000+600000
  544843 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,18n,57p,10493b,829s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2017/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2017/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2017/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pf
-b><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texl
-ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2017/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2017/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2017/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-ss8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive
-/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2017/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2017/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2017/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmti7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmti8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmtt10.pfb>
+ 41i,24n,57p,10511b,829s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2017
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2017/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2017/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2017
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2017/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pf
+b><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2017
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb><c:/texlive/2017/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmti8.pfb><c:/texlive/2017/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmtt10.pfb>
 Output written on "c:\Users\cbeard\ShareFile\Personal Folders\Dropbox\2013_McGi
-ll\1_PhD\__ThesisTEX\__Paper1_Aegirine\R2\LaTeX_Aegirine_R2/Aeg_v18.1.pdf" (93 
-pages, 19155650 bytes).
+ll\1_PhD\__ThesisTEX\__Paper1_Aegirine\AegirineManuscriptR2\LaTeX_Aegirine_R2/A
+eg_v18.1.pdf" (92 pages, 19077133 bytes).
 PDF statistics:
- 871 PDF objects out of 1000 (max. 8388607)
- 514 compressed objects within 6 object streams
+ 866 PDF objects out of 1000 (max. 8388607)
+ 512 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
  106 words of extra memory for PDF output out of 10000 (max. 10000000)
 

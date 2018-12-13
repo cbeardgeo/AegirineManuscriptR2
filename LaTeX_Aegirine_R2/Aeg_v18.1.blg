@@ -2,11 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2017/W32TeX)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: Aeg_v18.1.aux
 The style file: model2-names_NoURL.bst
-Case mismatch error between cite keys Beard_PhD_Thesis and Beard_PhD_thesis
----line 329 of file Aeg_v18.1.aux
- : \citation{Beard_PhD_Thesis
- :                           }
-I'm skipping whatever remains of this command
 print.eprint is an unknown function---line 1011 of file model2-names_NoURL.bst
 print.eprint is an unknown function---line 1050 of file model2-names_NoURL.bst
 print.eprint is an unknown function---line 1070 of file model2-names_NoURL.bst
@@ -21,17 +16,17 @@ print.eprint is an unknown function---line 1293 of file model2-names_NoURL.bst
 print.eprint is an unknown function---line 1315 of file model2-names_NoURL.bst
 print.eprint is an unknown function---line 1332 of file model2-names_NoURL.bst
 Database file #1: library.bib
-Repeated entry---line 8035 of file library.bib
- : @article{Huang2006
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 23794 of file library.bib
- : @article{Huang2006
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 24776 of file library.bib
+Repeated entry---line 12840 of file library.bib
  : @article{Schmidt2006
  :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 12933 of file library.bib
+ : @article{Huang2006
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 25938 of file library.bib
+ : @article{Huang2006
+ :                   ,
 I'm skipping whatever remains of this entry
 You can't pop an empty literal stack for entry Ablay1998
 while executing---line 1637 of file model2-names_NoURL.bst
@@ -205,8 +200,6 @@ You can't pop an empty literal stack for entry Paton2011
 while executing---line 1637 of file model2-names_NoURL.bst
 You can't pop an empty literal stack for entry Peters2017
 while executing---line 1637 of file model2-names_NoURL.bst
-You can't pop an empty literal stack for entry Prowatke2005
-while executing---line 1637 of file model2-names_NoURL.bst
 You can't pop an empty literal stack for entry Putirka2008
 while executing---line 1637 of file model2-names_NoURL.bst
 You can't pop an empty literal stack for entry Rapp1986
@@ -280,45 +273,45 @@ You can't pop an empty literal stack for entry Yao2012
 while executing---line 1637 of file model2-names_NoURL.bst
 You can't pop an empty literal stack for entry Zhang2010
 while executing---line 1637 of file model2-names_NoURL.bst
-You've used 123 entries,
+You've used 122 entries,
             2893 wiz_defined-function locations,
-            1649 strings with 35151 characters,
-and the built_in function-call counts, 87542 in all, are:
-= -- 7132
-> -- 3486
-< -- 61
-+ -- 1337
-- -- 1214
-* -- 10196
-:= -- 12857
-add.period$ -- 489
-call.type$ -- 123
-change.case$ -- 1021
-chr.to.int$ -- 123
-cite$ -- 124
-duplicate$ -- 5962
-empty$ -- 5966
-format.name$ -- 1619
-if$ -- 16111
+            1642 strings with 34947 characters,
+and the built_in function-call counts, 86897 in all, are:
+= -- 7075
+> -- 3468
+< -- 60
++ -- 1330
+- -- 1208
+* -- 10124
+:= -- 12764
+add.period$ -- 485
+call.type$ -- 122
+change.case$ -- 1014
+chr.to.int$ -- 122
+cite$ -- 123
+duplicate$ -- 5916
+empty$ -- 5919
+format.name$ -- 1608
+if$ -- 15990
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 1267
-newline$ -- 749
-num.names$ -- 496
-pop$ -- 1524
+missing$ -- 1258
+newline$ -- 743
+num.names$ -- 492
+pop$ -- 1513
 preamble$ -- 1
-purify$ -- 896
+purify$ -- 890
 quote$ -- 0
-skip$ -- 1759
+skip$ -- 1745
 stack$ -- 0
-substring$ -- 4381
-swap$ -- 4837
+substring$ -- 4345
+swap$ -- 4802
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1101
+type$ -- 1092
 warning$ -- 1
-while$ -- 611
+while$ -- 606
 width$ -- 0
-write$ -- 2091
-(There were 140 error messages)
+write$ -- 2074
+(There were 138 error messages)

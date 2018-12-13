@@ -1,0 +1,9 @@
+PWD C:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2
+INPUT c:/texlive/2017/texmf.cnf
+INPUT c:/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/cbeard/ShareFile/Personal Folders/Dropbox/2013_McGill/1_PhD/__ThesisTEX/__Paper1_Aegirine/AegirineManuscriptR2/LaTeX_Aegirine_R2/ApproachEq_Exp.tex
+OUTPUT c:\Users\cbeard\ShareFile\Personal Folders\Dropbox\2013_McGill\1_PhD\__ThesisTEX\__Paper1_Aegirine\AegirineManuscriptR2\LaTeX_Aegirine_R2/ApproachEq_Exp.log
+INPUT c:/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
